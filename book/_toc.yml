@@ -4,6 +4,8 @@ root: intro.md
 parts:
   - caption: MUDE 2025-2026
     chapters:
+    - url: https://tudelft-mude.github.io/incoming/2025/
+      title: Incoming students (broken URL)
     - url: https://tudelft-mude.github.io/book/2025/
       title: Book (temporary URL)
     - url: https://mude-2025.github.io/workbook-2025/
