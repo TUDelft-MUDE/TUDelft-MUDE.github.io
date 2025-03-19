@@ -37,14 +37,11 @@ parts:
     - file: archive/2022.md
       sections:
       - url: https://mude.citg.tudelft.nl/archive-2022
-        title: 
+        title: Archive 2022
   - caption: How to teach or copy MUDE
     chapters:
-    - file: how_to_mude/websites.md
-    - file: how_to_mude/book.md
-    - file: how_to_mude/in-class.md
-    - file: how_to_mude/assignment_repo.md
-    - file: how_to_mude/github-classroom.md
+    - url: https://tudelft-mude.github.io/teacher/
+      title: How to MUDE?
   - caption: Miscallaneous
     chapters:
     - file: changelog.md
