@@ -1,5 +1,12 @@
 # Changelog
 
+## v2025.6.0: 25-3-2025
+- Added incoming students page
+- Add link to most recent published book
+- Add 2023 content overview
+- Start with [2024 content overview](./archive/2024/overview.md)
+- [Full Changelog](https://github.com/TUDelft-MUDE/TUDelft-MUDE.github.io/releases/tag/v2025.6.0)
+
 ## v2025.5.0: 19-3-2025
 - Moved How to MUDE pages to separate book: [https://tudelft-mude.github.io/teacher/](https://tudelft-mude.github.io/teacher/)
 - [Full Changelog](https://github.com/TUDelft-MUDE/TUDelft-MUDE.github.io/releases/tag/v2025.5.0)

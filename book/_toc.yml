@@ -26,6 +26,10 @@ parts:
         title: Files
       - url: https://github.com/mude-2024
         title: Assignment student work (GitHub login required)
+      - url: https://gitlab.tudelft.nl/mude/2024-files
+        title: Source files assignments
+      - url: https://gitlab.tudelft.nl/mude/book
+        title: Source files book
     - file: archive/2023.md
       sections:
       - url: https://mude.citg.tudelft.nl/2023/overview/
