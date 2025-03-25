@@ -18,6 +18,7 @@ parts:
     chapters:
     - file: archive/2024.md
       sections:
+      - file: archive/2024/overview.md
       - url: https://mude.citg.tudelft.nl/2024/
         title: Homepage
       - url: https://mude.citg.tudelft.nl/2024/book
