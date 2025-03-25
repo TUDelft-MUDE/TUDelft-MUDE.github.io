@@ -28,6 +28,8 @@ parts:
         title: Assignment student work (GitHub login required)
     - file: archive/2023.md
       sections:
+      - url: https://mude.citg.tudelft.nl/2023/overview/
+        title: Content overview
       - url: https://mude.citg.tudelft.nl/2023/
         title: Homepage
       - url: https://mude.citg.tudelft.nl/2023/book
