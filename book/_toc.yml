@@ -49,8 +49,8 @@ parts:
         title: Archive 2022
   - caption: How to teach or copy MUDE
     chapters:
-    - url: https://mude.citg.tudelft.nl/book
-      title: Most recent published book
+    - url: https://mude.citg.tudelft.nl/book/2024
+      title: Most recent published book (2024 edition)
     - url: https://mude.citg.tudelft.nl/teacher/
       title: How to MUDE?
   - caption: Miscallaneous
