@@ -4,12 +4,12 @@ root: intro.md
 parts:
   - caption: MUDE 2025-2026
     chapters:
-    - url: https://tudelft-mude.github.io/incoming/
-      title: Incoming students (temporary URL)
-    - url: https://tudelft-mude.github.io/book/2025/
-      title: Book (temporary URL)
-    - url: https://tudelft-mude.github.io/workbook-2025/
-      title: Workbook (temporary URL)
+    - url: https://mude.citg.tudelft.nl/incoming/
+      title: Incoming students
+    - url: https://mude.citg.tudelft.nl/book/2025/
+      title: Book
+    - url: https://mude.citg.tudelft.nl/workbook-2025/
+      title: Workbook
     - url: https://brightspace.tudelft.nl/d2l/home/594596
       title: Brightspace - announcement, course information, buddycheck, grades (temporary 2024 url)
     - url: https://answers.citg.tudelft.nl/
@@ -51,7 +51,7 @@ parts:
     chapters:
     - url: https://mude.citg.tudelft.nl/book
       title: Most recent published book
-    - url: https://tudelft-mude.github.io/teacher/
+    - url: https://mude.citg.tudelft.nl/teacher/
       title: How to MUDE?
   - caption: Miscallaneous
     chapters:
