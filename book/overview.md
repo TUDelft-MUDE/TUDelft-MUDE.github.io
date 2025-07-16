@@ -24,7 +24,7 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 **Programming: Getting started!**
 
-- [Book chapterd](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1.md)
+- [Book chapters](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1.md)
   - [Computers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/computers.md)
   - [Environments and environment managers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/environments.md)
   - [Command line interface](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/install/common/cli.md)
