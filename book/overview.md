@@ -65,7 +65,7 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 **Programming: Sharing code in reports**
 
-- [Book chapter: Sharing code in reports](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2.md)
+- [Book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2.md)
   - [File paths](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2/filepaths.md)
   - [Markdown](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2/markdown.md)
 - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/README.html)
