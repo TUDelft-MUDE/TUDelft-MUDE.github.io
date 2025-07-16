@@ -24,11 +24,11 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 **Programming: Getting started!**
 
-- [Book chapter: Getting started](./programming/week_1_1.md)
-  - [Computers](./_git/github.com_TeachBooks_learn-programming/mude-2025/book/computers.md)
-  - [Environments and environment managers](./_git/github.com_TeachBooks_learn-programming/mude-2025/book/environments.md)
-  - [Command line interface](./_git/github.com_TeachBooks_learn-programming/mude-2025/book/install/common/cli.md)
-  - [Files and folder](./programming/week_1_1/files.md)
+- [Book chapter: Getting started](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1.md)
+  - [Computers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/computers.md)
+  - [Environments and environment managers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/environments.md)
+  - [Command line interface](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/install/common/cli.md)
+  - [Files and folder](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1/files.md)
 - [Programming assignment: Catch them all](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/README.html)
   - [Show hidden files](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/1_enable_hidden_files.html)
   - [Install TU Delft conda](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/2_install_conda.html)
