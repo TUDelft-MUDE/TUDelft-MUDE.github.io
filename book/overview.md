@@ -2,9 +2,11 @@
 
 This page shows an overview of the book theory, lecture slides, assignments and fundamental concepts per week.
 
-<!---
+
 
 :::::{dropdown} Week 1.1
+
+<!---
 
 **Modelling concepts**
 
@@ -18,17 +20,30 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 - [Group assignment](https://tudelft-mude.github.io/workbook-2025/assignments/GA1.1/README.html)
 - Fundamental concepts
   - tbd
+-->
 
-**Programming: getting started!**
+**Programming: Getting started!**
 
-- [Book chapter](./programming/week_1_1.md)
-  - [](./programming/week_1_1/environments)
+- [Book chapter: Getting started](./programming/week_1_1.md)
+  - [Computers](./_git/github.com_TeachBooks_learn-programming/mude-2025/book/computers.md)
+  - [Environments and environment managers](./_git/github.com_TeachBooks_learn-programming/mude-2025/book/environments.md)
+  - [Command line interface](./_git/github.com_TeachBooks_learn-programming/mude-2025/book/install/common/cli.md)
+  - [Files and folder](./programming/week_1_1/files.md)
+- [Programming assignment: Catch them all](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/README.html)
+  - [Show hidden files](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/1_enable_hidden_files.html)
+  - [Install TU Delft conda](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/2_install_conda.html)
+  - [Install VS Code](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/3_install_VS_code.html)
+  - [Setup `mude-base` environment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/4_install_mude_environment.html)
+  - [Execute python code in VS code in your `mude-base` environment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/5_test.html)
+  - [GitHub Student Developer Pack](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/6_github_copilot.html)
 - Fundamental programming concepts
-  - [Files and Folders book](https://teachbooks.io/files-and-folders/EN/)
+  - tbd
+  - tbd
   - [Python basics in Learn-Python book](https://teachbooks.io/learn-python/restructure-book/basics/intro.html)
-- [Programming assignment](https://tudelft-mude.github.io/workbook-2025/assignments/PA1.1/README.html)
 
 :::::
+
+<!---
 
 :::::{dropdown} Week 1.2
 
