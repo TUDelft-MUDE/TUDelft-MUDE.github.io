@@ -43,6 +43,7 @@ sphinx:
     - sphinx_exercise
     - sphinx_tudelft_theme
     - teachbooks_sphinx_tippy
+    - sphinx_dropdown_toggle
 
 bibtex_bibfiles: 
   - references.bib
