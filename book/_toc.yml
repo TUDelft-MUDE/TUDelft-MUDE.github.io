@@ -15,6 +15,8 @@ parts:
       title: Brightspace - announcement, course information, buddycheck, grades (temporary 2024 url)
     - url: https://answers.citg.tudelft.nl/
       title: Answers
+    - url: https://mude.citg.tudelft.nl/fundamental-concepts/
+      title: Fundamental concepts
   - caption: MUDE archive
     chapters:
     - file: archive.md
