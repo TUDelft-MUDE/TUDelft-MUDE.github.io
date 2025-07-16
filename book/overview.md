@@ -77,9 +77,9 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 :::::
 
-<!---
-
 :::::{dropdown} Week 1.3
+
+<!---
 
 ## Numerical Modelling 2
 
@@ -95,9 +95,21 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 - Fundamental concepts
   - tbd
 
-## Programming: collaborating
+-->
+
+**Programming: GitHub submissions and VS code tricks**
+
+- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html)
+  - [Upload files to GitHub and check for pass](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/1_upload_github.html)
+  - [VS Live Share](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/2_VS_share.html)
+  - [VS IntelliSense](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/3_IntelliSense.html)
+- Fundamental programming concepts
+  - tbd
+  - tbd
 
 ::::
+
+<!---
 
 :::::{dropdown} Week 1.4
 
