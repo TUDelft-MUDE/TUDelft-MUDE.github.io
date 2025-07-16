@@ -17,6 +17,7 @@ parts:
       title: Answers
   - caption: MUDE archive
     chapters:
+    - file: archive.md
     - file: archive/2024.md
       sections:
       - file: archive/2024/overview.md
