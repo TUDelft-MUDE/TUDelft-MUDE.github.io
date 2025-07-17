@@ -194,6 +194,7 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 :::::
 
+<!---
 :::::{dropdown} Week 1.6
 
 ## Uncertainty Propagation
