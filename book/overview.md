@@ -101,9 +101,11 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 **Programming**
 
-- GitHub submissions and VS code tricks
+- GitHub submissions
   - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html)
     - [Upload files to GitHub and check for pass](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/1_upload_github.html)
+- VS code tricks
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html)
     - [VS Live Share](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/2_VS_share.html)
     - [VS IntelliSense](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/3_IntelliSense.html)
 - Fundamental programming concepts
