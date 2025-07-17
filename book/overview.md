@@ -109,9 +109,9 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 ::::
 
-<!---
-
 :::::{dropdown} Week 1.4
+
+<!---
 
 ## Univariate Distributions
 
@@ -127,9 +127,27 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 - Fundamental concepts
   - tbd
 
-## Programming: git
+-->
+
+**Programming: Version control with Git**
+
+- [Book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
+  - [Version control](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/version_control.html)
+  - [Jupyter Notebooks and Git](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/notebooks.html)
+- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/README.html)
+  - [Install GitHHub Desktop](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/1_install_github_desktop.html)
+  - [Make commit locally](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/2_commit_local.html)
+  - [Make commit online](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/3_commit_online.html)
+  - [Fetch and pull](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/4_fetch_pull.html)
+  - [Install git](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/5_install_git.html)
+- Fundamental programming concepts
+  - tbd
+  - tbd
+
 
 :::::
+
+<!---
 
 :::::{dropdown} Week 1.5
 
