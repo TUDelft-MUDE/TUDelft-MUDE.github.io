@@ -22,20 +22,21 @@ This page shows an overview of the book theory, lecture slides, assignments and 
   - tbd
 -->
 
-**Programming: Getting started!**
+**Programming**
 
-- [Book chapters](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1.md)
-  - [Computers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/computers.md)
-  - [Environments and environment managers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/environments.md)
-  - [Command line interface](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/install/common/cli.md)
-  - [Files and folder](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1/files.md)
-- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/README.html)
-  - [Show hidden files](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/1_enable_hidden_files.html)
-  - [Install TU Delft conda](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/2_install_conda.html)
-  - [Install VS Code](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/3_install_VS_code.html)
-  - [Setup `mude-base` environment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/4_install_mude_environment.html)
-  - [Execute python code in VS code in your `mude-base` environment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/5_test.html)
-  - [GitHub Student Developer Pack](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/6_github_copilot.html)
+- Getting started!
+  - [Book chapters](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1.md)
+    - [Computers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/computers.md)
+    - [Environments and environment managers](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/environments.md)
+    - [Command line interface](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/install/common/cli.md)
+    - [Files and folder](https://mude.citg.tudelft.nl/book/2025/programming/week_1_1/files.md)
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/README.html)
+    - [Show hidden files](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/1_enable_hidden_files.html)
+    - [Install TU Delft conda](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/2_install_conda.html)
+    - [Install VS Code](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/3_install_VS_code.html)
+    - [Setup `mude-base` environment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/4_install_mude_environment.html)
+    - [Execute python code in VS code in your `mude-base` environment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/5_test.html)
+    - [GitHub Student Developer Pack](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/6_github_copilot.html)
 - Fundamental programming concepts
   - tbd
   - tbd
@@ -63,14 +64,15 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 -->
 
-**Programming: Sharing code in reports**
+**Programming:**
 
-- [Book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2.md)
-  - [File paths](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2/filepaths.md)
-  - [Markdown](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2/markdown.md)
-- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/README.html)
-  - [Report in a markdown file](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/1_markdown.html)
-  - [Markdown in a Jupyter notebook file](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/2_markdown_ipynb.html)
+- Sharing code in reports
+  - [Book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2.md)
+    - [File paths](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2/filepaths.md)
+    - [Markdown](https://mude.citg.tudelft.nl/book/2025/programming/week_1_2/markdown.md)
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/README.html)
+    - [Report in a markdown file](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/1_markdown.html)
+    - [Markdown in a Jupyter notebook file](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.2/2_markdown_ipynb.html)
 - Fundamental programming concepts
   - tbd
   - tbd
@@ -97,12 +99,15 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 -->
 
-**Programming: GitHub submissions and VS code tricks**
+**Programming**
 
-- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html)
-  - [Upload files to GitHub and check for pass](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/1_upload_github.html)
-  - [VS Live Share](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/2_VS_share.html)
-  - [VS IntelliSense](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/3_IntelliSense.html)
+- GitHub submissions
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html)
+    - [Upload files to GitHub and check for pass](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/1_upload_github.html)
+- VS code tricks
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/README.html)
+    - [VS Live Share](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/2_VS_share.html)
+    - [VS IntelliSense](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.3/3_IntelliSense.html)
 - Fundamental programming concepts
   - tbd
   - tbd
@@ -129,17 +134,18 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 -->
 
-**Programming: Version control with Git**
+**Programming**
 
-- [Part of book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
-  - [Version control](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/version_control.html)
-  - [Jupyter Notebooks and Git](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/notebooks.html)
-- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/README.html)
-  - [Install GitHHub Desktop](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/1_install_github_desktop.html)
-  - [Make commit locally](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/2_commit_local.html)
-  - [Make commit online](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/3_commit_online.html)
-  - [Fetch and pull](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/4_fetch_pull.html)
-  - [Install git](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/5_install_git.html)
+- Version control with git
+  - [Part of book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
+    - [Version control](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/version_control.html)
+    - [Jupyter Notebooks and Git](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/notebooks.html)
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/README.html)
+    - [Install GitHHub Desktop](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/1_install_github_desktop.html)
+    - [Make commit locally](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/2_commit_local.html)
+    - [Make commit online](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/3_commit_online.html)
+    - [Fetch and pull](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/4_fetch_pull.html)
+    - [Install git](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/5_install_git.html)
 - Fundamental programming concepts
   - tbd
   - tbd
@@ -170,13 +176,18 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 ## Programming: versioning
 
 
-**Programming: Version control with Git**
+**Programming**
 
-- [Part of book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
-  - [Branching and merging](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/workflows/git/branch_merge.html)
-  - [Merge conflicts](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/workflows/git/merge_conflicts.html)
-- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.5/README.html)
-  - ...
+- Version control with Git
+  - [Part of book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
+    - [Branching and merging](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/workflows/git/branch_merge.html)
+    - [Merge conflicts](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/workflows/git/merge_conflicts.html)
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.5/README.html)
+    - [Branching and pull requests](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.5/1_crossword.html)
+    - [Forking and pull requetss](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.5/2_ice_classic.html)
+- `scipy.stats` and 3D plots
+  - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.5/README.html)
+    - [`scipy.stats` and 3D plots](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.5/3_scipy_statcs_3d_plots.html)
 - Fundamental programming concepts
   - tbd
   - tbd
