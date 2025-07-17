@@ -131,7 +131,7 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 **Programming: Version control with Git**
 
-- [Book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
+- [Part of book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
   - [Version control](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/version_control.html)
   - [Jupyter Notebooks and Git](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/version_control/notebooks.html)
 - [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.4/README.html)
@@ -147,9 +147,9 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 :::::
 
-<!---
-
 :::::{dropdown} Week 1.5
+
+<!---
 
 ## Multivariate Distributions
 
@@ -165,7 +165,21 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 - Fundamental concepts
   - tbd
 
+-->
+
 ## Programming: versioning
+
+
+**Programming: Version control with Git**
+
+- [Part of book chapter](https://mude.citg.tudelft.nl/book/2025/programming/week_1_4.md)
+  - [Branching and merging](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/workflows/git/branch_merge.html)
+  - [Merge conflicts](https://mude.citg.tudelft.nl/book/2025/_git/github.com_TeachBooks_learn-programming/mude-2025/book/workflows/git/merge_conflicts.html)
+- [Programming assignment](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.5/README.html)
+  - ...
+- Fundamental programming concepts
+  - tbd
+  - tbd
 
 :::::
 
