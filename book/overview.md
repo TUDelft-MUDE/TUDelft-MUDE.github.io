@@ -112,7 +112,7 @@ This page shows an overview of the book theory, lecture slides, assignments and 
   - tbd
   - tbd
 
-::::
+:::::
 
 :::::{dropdown} Week 1.4
 
@@ -149,7 +149,6 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 - Fundamental programming concepts
   - tbd
   - tbd
-
 
 :::::
 
