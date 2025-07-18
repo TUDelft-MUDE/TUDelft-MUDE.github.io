@@ -20,6 +20,7 @@ parts:
   - caption: MUDE archive
     chapters:
     - file: archive.md
+      title: Archive overview
     - file: archive/2024.md
       sections:
       - file: archive/2024/overview.md
@@ -49,7 +50,7 @@ parts:
         title: Student work (TU Delft login required)
     - file: archive/2022.md
       sections:
-      - url: https://mude.citg.tudelft.nl/archive-2022
+      - url: https://archive.citg.tudelft.nl/2022
         title: Archive 2022
   - caption: How to teach or copy MUDE
     chapters:
