@@ -50,7 +50,7 @@ parts:
         title: Student work (TU Delft login required)
     - file: archive/2022.md
       sections:
-      - url: https://archive.citg.tudelft.nl/2022
+      - url: https://archive.mude.citg.tudelft.nl/2022
         title: Archive 2022
   - caption: How to teach or copy MUDE
     chapters:
