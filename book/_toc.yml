@@ -23,11 +23,11 @@ parts:
     - file: archive/2024.md
       sections:
       - file: archive/2024/overview.md
-      - url: https://mude.citg.tudelft.nl/2024/
+      - url: https://archive.mude.citg.tudelft.nl/2024/
         title: Homepage
-      - url: https://mude.citg.tudelft.nl/2024/book
+      - url: https://archive.mude.citg.tudelft.nl/2024/book
         title: Book
-      - url: https://mude.citg.tudelft.nl/2024/files
+      - url: https://archive.mude.citg.tudelft.nl/2024/files
         title: Files
       - url: https://github.com/mude-2024
         title: Assignment student work (GitHub login required)
@@ -37,13 +37,13 @@ parts:
         title: Source files book
     - file: archive/2023.md
       sections:
-      - url: https://mude.citg.tudelft.nl/2023/overview/
+      - url: https://archive.mude.citg.tudelft.nl/2023/overview/
         title: Content overview
-      - url: https://mude.citg.tudelft.nl/2023/
+      - url: https://archive.mude.citg.tudelft.nl/2023/
         title: Homepage
-      - url: https://mude.citg.tudelft.nl/2023/book
+      - url: https://archive.mude.citg.tudelft.nl/2023/book
         title: Book
-      - url: https://mude.citg.tudelft.nl/2023/files
+      - url: https://archive.mude.citg.tudelft.nl/2023/files
         title: Files
       - url: https://gitlab.tudelft.nl/mude-2023-24-q1/
         title: Student work (TU Delft login required)
