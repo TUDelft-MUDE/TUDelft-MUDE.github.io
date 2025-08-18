@@ -2,6 +2,26 @@
 
 This page shows an overview of the book theory, lecture slides, assignments and fundamental concepts per week.
 
+| Week          | Topic                     |
+|---------------|---------------------------|
+| 1.1           | Modelling Concepts        |
+| 1.2           | Numerical Modelling 1     |
+| 1.3           | Numerical Modelling 2     |
+| 1.4           | Univariate Distributions  |
+| 1.5           | Multivariate Distributions|
+| 1.6           | Uncertainty Propagation   |
+| 1.7           | Observation Theory 1      |
+| 1.8           | Observation Theory 2      |
+| 2.1           | PDE's, FDM, FVM           |
+| 2.2           | FEM                       |
+| 2.3           | Signal Processing         |
+| 2.4           | Time Series Analysis      |
+| 2.5           | Optimization              |
+| 2.6           | Machine Learning          |
+| 2.7           | Extreme Value Analysis    |
+| 2.8           | Risk Analysis             |
+| All weeks     | Programming               |
+
 <!---
 
 :::::{dropdown} Week 1.1
