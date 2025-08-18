@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: MUDE 2025-2026
     chapters:
-    - file: overview.md
+    - file: 2025/overview.md
     - url: https://mude.citg.tudelft.nl/incoming/
       title: Incoming students
     - url: https://mude.citg.tudelft.nl/book/2025/
@@ -51,7 +51,7 @@ parts:
     - file: archive/2022.md
       sections:
       - url: https://archive.mude.citg.tudelft.nl/2022
-        title: Archive 2022
+        title: Archive 2022 (TU Delft login required)
   - caption: How to teach or copy MUDE
     chapters:
     - url: https://mude.citg.tudelft.nl/book/2024
