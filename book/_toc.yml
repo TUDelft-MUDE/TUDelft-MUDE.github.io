@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: MUDE 2025-2026
     chapters:
-    - file: overview.md
+    - file: 2025/overview.md
     - url: https://mude.citg.tudelft.nl/incoming/
       title: Incoming students
     - url: https://mude.citg.tudelft.nl/book/2025/
@@ -15,16 +15,20 @@ parts:
       title: Brightspace - announcement, course information, buddycheck, grades (temporary 2024 url)
     - url: https://answers.citg.tudelft.nl/
       title: Answers
+    - url: https://mude.citg.tudelft.nl/fundamental-concepts/
+      title: Fundamental concepts
   - caption: MUDE archive
     chapters:
+    - file: archive.md
+      title: Archive overview
     - file: archive/2024.md
       sections:
       - file: archive/2024/overview.md
-      - url: https://mude.citg.tudelft.nl/2024/
+      - url: https://archive.mude.citg.tudelft.nl/2024/
         title: Homepage
-      - url: https://mude.citg.tudelft.nl/2024/book
+      - url: https://archive.mude.citg.tudelft.nl/2024/book
         title: Book
-      - url: https://mude.citg.tudelft.nl/2024/files
+      - url: https://archive.mude.citg.tudelft.nl/2024/files
         title: Files
       - url: https://github.com/mude-2024
         title: Assignment student work (GitHub login required)
@@ -34,20 +38,20 @@ parts:
         title: Source files book
     - file: archive/2023.md
       sections:
-      - url: https://mude.citg.tudelft.nl/2023/overview/
+      - url: https://archive.mude.citg.tudelft.nl/2023/overview/
         title: Content overview
-      - url: https://mude.citg.tudelft.nl/2023/
+      - url: https://archive.mude.citg.tudelft.nl/2023/
         title: Homepage
-      - url: https://mude.citg.tudelft.nl/2023/book
+      - url: https://archive.mude.citg.tudelft.nl/2023/book
         title: Book
-      - url: https://mude.citg.tudelft.nl/2023/files
+      - url: https://archive.mude.citg.tudelft.nl/2023/files
         title: Files
       - url: https://gitlab.tudelft.nl/mude-2023-24-q1/
         title: Student work (TU Delft login required)
     - file: archive/2022.md
       sections:
-      - url: https://mude.citg.tudelft.nl/archive-2022
-        title: Archive 2022
+      - url: https://archive.mude.citg.tudelft.nl/2022
+        title: Archive 2022 (TU Delft login required)
   - caption: How to teach or copy MUDE
     chapters:
     - url: https://mude.citg.tudelft.nl/book/2024
