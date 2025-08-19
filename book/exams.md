@@ -21,7 +21,7 @@ Some changes:
 The old exams:
 - 2024-2025 Q2 resit: [`.pdf`](https://files.mude.citg.tudelft.nl/2024-2025_Q2_R.pdf)
 - 2024-2025 Q2 exam: [`.pdf` as provided during exam](https://files.mude.citg.tudelft.nl/2024-2025_Q2.pdf) and [`.pdf` including answers](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf)
-- 2024-2025 Q2 resit: [`.pdf`](https://files.mude.citg.tudelft.nl/2024-2025_Q1_R.pdf)
+- 2024-2025 Q1 resit: [`.pdf`](https://files.mude.citg.tudelft.nl/2024-2025_Q1_R.pdf)
 - 2024-2025 Q1 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q1.html)
 
 ## 2023-2024 exams
