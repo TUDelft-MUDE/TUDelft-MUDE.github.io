@@ -5,8 +5,8 @@ parts:
   - caption: MUDE 2025-2026
     chapters:
     - file: 2025/overview.md
-      sections:
 # START REMOVE-FROM-PUBLISH
+      sections:
       - file: 2025/overview/1_1.md
       - file: 2025/overview/1_2.md
       - file: 2025/overview/1_3.md
