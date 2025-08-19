@@ -30,8 +30,8 @@ parts:
       title: Book
     - url: https://mude.citg.tudelft.nl/workbook-2025/
       title: Workbook
-    - url: https://brightspace.tudelft.nl/d2l/home/594596
-      title: Brightspace - announcement, course information, buddycheck, grades (temporary 2024 url)
+    - url: https://brightspace.tudelft.nl/d2l/home/774319
+      title: Brightspace - announcements, course information, buddycheck, grades
     - url: https://answers.citg.tudelft.nl/
       title: Answers
     - url: https://mude.citg.tudelft.nl/fundamental-concepts/
