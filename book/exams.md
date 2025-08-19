@@ -27,8 +27,7 @@ The old exams:
 ## 2023-2024 exams
 
 Some changes:
-- This year included one week of finite volum method, which is not longer taught.
-- Finite difference was taught in Q1, this year in Q2.
+- Finite difference method was covered in Q1 in 2023-2024, it is now in Q2.
 
 The old exams:
 - 2023-2024 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.html)
@@ -43,8 +42,7 @@ Note that for the 2022-2023 academic year the format of the module and specific 
 - There were around 8 or 9 “Questions” on the exam, each with multiple sub-questions. This year there will be fewer “Questions,” which of course means the value (in points) will be more for each of them.
 - Some questions or portions of questions may make reference to topics that have not been covered in the current academic year. For example, ‘W-test’ in sensing and observation theory was not covered, so you may exclude this topic for your studies.
 - Previous time series questions looked at ARMA: this is not part of this year's exam (specifically MA = moving average; AR = autoregressive is part of the exam!). In addition, the Partial ACF (PACF) may appear on previous exams in 2022-2023, but is not required this year.
-- Finite element material was covered extensively in 2022-2023, it is now reduced.
-- Extreme value analysis was covered in a reduced form and was in Q2, it is now expanded and part of Q1
+- Extreme value analysis was covered in a reduced form and has been expanded since 2023-2024.
 
 The old exams:
 - 2022-2023 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.html)
