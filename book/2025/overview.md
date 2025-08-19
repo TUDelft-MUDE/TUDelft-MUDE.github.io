@@ -17,9 +17,9 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 | 2.3           | Signal Processing         | Errors                      |
 | 2.4           | Time Series Analysis      | Tests                       |
 | 2.5           | Optimization              | Packages + Modules          |
-| 2.6           | Machine Learning          |                             |
-| 2.7           | Extreme Value Analysis    |                             |
-| 2.8           | Risk Analysis             |                             |
+| 2.6           | Machine Learning          | -                           |
+| 2.7           | Extreme Value Analysis    | -                           |
+| 2.8           | Risk Analysis             | -                           |
 
 Programmings topics exclude fundamental programming concepts and exercises related to workshops and group assignments.
 
