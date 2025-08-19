@@ -6,8 +6,8 @@ parts:
     chapters:
     - file: 2025/overview.md
       sections:
-      - file: 2025/overview/1_1.md
 # START REMOVE-FROM-PUBLISH
+      - file: 2025/overview/1_1.md
       - file: 2025/overview/1_2.md
       - file: 2025/overview/1_3.md
       - file: 2025/overview/1_4.md
