@@ -11,6 +11,8 @@ Some general remarks:
 - A portion of the questions this year will take inspiration from the assignments we have done on Wednesday and Friday (but not all of the questions) and the programming assignments; it would be wise to review this when preparing for the exam.
 - In addition, programming topics changed over the years: questions from previous years illustrate how programming will be asked, but not necessarily the content. As the scope of Programming Assignments changes from year to year, you may see topics that are unfamiliar to you.
 
+An example formula sheet is provided [here](https://archive.mude.citg.tudelft.nl/2024/files/Exams/Sample_Formula_Sheet.pdf)
+
 ## 2024-2025 exams
 
 Some changes:
@@ -45,13 +47,11 @@ Note that for the 2022-2023 academic year the format of the module and specific 
 - 2022-2023 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.html)
   - Risk Analysis: series/parallel systems and effect of dependence on failure probability are not part of this year's exam. This includes 9a and 9b
   - The FEM question is missing a solution for multiple choice question 2d: the answer is C
-  - Question that apply for Q1 this year: 2
-  - Question that apply for Q2 this year: 3 to 12
+  - Question that apply for Q2 this year: 2 to 12
 - 2022-2023 Q2 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.html)
   - Risk Analysis: series/parallel systems and effect of dependence on failure probability are not part of this year's exam. This includes 10c and 10d
   - For optimization, remember you are expected to have a clear understanding behind the Simplex method and how to do it, but will not need to do the calculations by hand (Q2 exam Part 5, Optimization question 2 illustrates doing it by hand).
-  - Question that apply for Q1 this year: 2
-  - Question that apply for Q2 this year: 3 to 10.
+  - Question that apply for Q2 this year: 2 to 10.
 - 2022-2023 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.html)
   - Questions that apply for Q1 this year: 3 to 8
   - Questions that apply for Q2 this year: 2
