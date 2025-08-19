@@ -36,6 +36,7 @@ parts:
       title: Answers
     - url: https://mude.citg.tudelft.nl/fundamental-concepts/
       title: Fundamental concepts
+    - file: exams.md
   - caption: MUDE archive
     chapters:
     - file: archive.md
