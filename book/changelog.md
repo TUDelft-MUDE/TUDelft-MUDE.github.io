@@ -1,5 +1,9 @@
 # Changelog
 
+## v2025.8.0 20-8-2025
+- Added old exams page to current year
+- Various small updates
+
 ## v2025.7.1 19-8-2025
 - Update with information about open book
 - Various small updates
