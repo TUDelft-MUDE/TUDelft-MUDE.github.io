@@ -41,6 +41,6 @@
 - Added [How to Mude? In-class instructions](https://tudelft-mude.github.io/teacher/in-class.html)
 - [Full Changelog](https://github.com/TUDelft-MUDE/TUDelft-MUDE.github.io/releases/tag/v2025.2.0)
 
-## v2025.1.0: 18-3-2025
+## 18-3-2025: v2025.1.0
 - Added [How to Mude? Create repositories](https://tudelft-mude.github.io/teacher/assignment_repo.html)
 - [Full Changelog](https://github.com/TUDelft-MUDE/TUDelft-MUDE.github.io/releases/tag/v2025.1.0)
