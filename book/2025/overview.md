@@ -10,7 +10,7 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 | 1.4           | Univariate Distributions  | Git basics                  |
 | 1.5           | Multivariate Distributions| Git branching and merging   |
 | 1.6           | Uncertainty Propagation   | LLM tools, PY scripts       |
-| 1.7           | Observation Theory 1      | -                           |
+| 1.7           | Observation Theory 1      | Debugging                   |
 | 1.8           | Observation Theory 2      | -                           |
 | 2.1           | PDE's, FDM, FVM           | Object-oriented programming |
 | 2.2           | FEM                       | Numerical efficiency        |
