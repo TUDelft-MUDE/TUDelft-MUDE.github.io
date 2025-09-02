@@ -1,5 +1,8 @@
 # Changelog
 
+## 2-9-2025: v2025.10.0.pre-release
+- Added lecture slides to [overview week 1](book/2025/overview/1_1.md)
+
 ## 20-8-2025: v2025.9.0.pre-release
 - Added old exams page to current year
 - Various small updates
