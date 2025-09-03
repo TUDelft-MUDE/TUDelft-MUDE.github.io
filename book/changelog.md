@@ -1,6 +1,6 @@
 # Changelog
 
-## 3-9-2025: v2025.11.o.pre-release
+## 3-9-2025: v2025.11.0.pre-release
 - Added workshop 1.1 to [overview week 1](book/2025/overview/1_1.md)
 
 ## 2-9-2025: v2025.10.0.pre-release
