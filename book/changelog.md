@@ -1,5 +1,8 @@
 # Changelog
 
+## 7-9-2025: v2025.14.0.pre-release
+- Added lecture slide to [overview week 1.2](book/2025/overview/1_2.md)
+
 ## 5-9-2025: v2025.13.0.pre-release
 - Added [overview week 1.2](book/2025/overview/1_2.md)
 
