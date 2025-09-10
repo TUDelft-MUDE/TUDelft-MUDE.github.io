@@ -1,9 +1,6 @@
 # Old exams
 
-Exams and resits from previous years available here. The exams are provided in two formats:
-
-- Blank exam (PDF): this file shows the exam format that the student can expect in the exam (i.e., if printed on A4 paper, this is exactly where the answers would be written).
-- Exam Solution (HTML): the HTML files illustrate the exam questions and answers.
+Exams and resits from previous years available here. The exams are provided in two formats, with and without answers.
 
 Some general remarks:
 - The style of questions in the old exams is representative of the style of questions you will see this year.
@@ -22,7 +19,7 @@ The old exams:
 - 2024-2025 Q2 resit: [`.pdf`](https://files.mude.citg.tudelft.nl/2024-2025_Q2_R.pdf)
 - 2024-2025 Q2 exam: [`.pdf` as provided during exam](https://files.mude.citg.tudelft.nl/2024-2025_Q2.pdf) and [`.pdf` including answers](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf)
 - 2024-2025 Q1 resit: [`.pdf`](https://files.mude.citg.tudelft.nl/2024-2025_Q1_R.pdf)
-- 2024-2025 Q1 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q1.html)
+- 2024-2025 Q1 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q1.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q1.html)
 
 ## 2023-2024 exams
 
