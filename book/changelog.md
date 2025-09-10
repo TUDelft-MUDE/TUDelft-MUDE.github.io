@@ -1,5 +1,8 @@
 # Changelog
 
+## 10-9-2025: v2025.15.0.pre-release
+- Added workshop 1.2 to [overview week 1.2](book/2025/overview/1_2.md)
+
 ## 10-9-2025: v2025.14.1.pre-release
 - Added numerical modelling book chapters to [overview week 1.3](book/2025/overview/1_3.md)
 
