@@ -1,5 +1,8 @@
 # Changelog
 
+## 12-9-2025: v2025.16.0.pre-release
+- Added group assignment 1.2 to [overview week 1.2](book/2025/overview/1_2.md)
+
 ## 10-9-2025: v2025.15.0.pre-release
 - Added workshop 1.2 to [overview week 1.2](book/2025/overview/1_2.md)
 
