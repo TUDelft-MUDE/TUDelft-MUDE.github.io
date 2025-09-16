@@ -1,5 +1,9 @@
 # Changelog
 
+## 16-9-2025: v2025.17.0.pre-release
+- Added lecture slides to [overview week 1.3](book/2025/overview/1_3.md)
+- Added collegerama recording to [overview week 1.1](book/2025/overview/1_1.md), [overview week 1.2](book/2025/overview/1_2.md) and [overview week 1.3](book/2025/overview/1_3.md)
+
 ## 12-9-2025: v2025.16.0.pre-release
 - Added group assignment 1.2 to [overview week 1.2](book/2025/overview/1_2.md)
 
@@ -10,7 +14,7 @@
 - Added numerical modelling book chapters to [overview week 1.3](book/2025/overview/1_3.md)
 
 ## 7-9-2025: v2025.14.0.pre-release
-- Added lecture slide to [overview week 1.2](book/2025/overview/1_2.md)
+- Added lecture slides to [overview week 1.2](book/2025/overview/1_2.md)
 
 ## 5-9-2025: v2025.13.0.pre-release
 - Added [overview week 1.2](book/2025/overview/1_2.md)
