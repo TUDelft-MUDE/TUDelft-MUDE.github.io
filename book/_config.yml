@@ -26,6 +26,10 @@ sphinx:
       use_issues_button : true
       launch_buttons:
         thebe: true
+# START REMOVE-FROM-RELEASE
+      announcement: "<p>This book is not the version shared with students. That one is available here <a href='https://mude.citg.tudelft.nl' style='color: cyan;'>mude.citg.tudelft.nl</a></p>"
+    keep_warnings: true
+# END REMOVE-FROM-RELEASE
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
     mathjax3_config:
@@ -35,16 +39,9 @@ sphinx:
     tud_change_logo: false
   extra_extensions:
     - sphinx.ext.imgconverter
-    - jupyterbook_patches
-    - download_link_replacer
     - sphinx.ext.extlinks
-    - sphinx_image_inverter
-    - sphinx_iframes
-    - sphinx_exercise
+    - teachbooks_favourites
     - sphinx_tudelft_theme
-    - teachbooks_sphinx_tippy
-    - sphinx_dropdown_toggle
-    - sphinx_accessibility
 
 bibtex_bibfiles: 
   - references.bib
