@@ -9,8 +9,8 @@ parts:
       - file: 2025/overview/1_1.md
       - file: 2025/overview/1_2.md
       - file: 2025/overview/1_3.md
-# START REMOVE-FROM-PUBLISH
       - file: 2025/overview/1_4.md
+# START REMOVE-FROM-PUBLISH
       - file: 2025/overview/1_5.md
       - file: 2025/overview/1_6.md
       - file: 2025/overview/1_7.md
