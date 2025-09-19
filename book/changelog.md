@@ -1,5 +1,9 @@
 # Changelog
 
+
+## 19-9-2025: v2025.19.0
+- Added GA 1.3 to [overview week 1.3](book/2025/overview/1_3.md)
+
 ## 17-9-2025: v2025.18.0
 - Added workshop 1.3 to [overview week 1.3](book/2025/overview/1_3.md)
 
