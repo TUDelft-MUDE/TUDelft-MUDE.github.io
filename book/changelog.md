@@ -1,44 +1,44 @@
 # Changelog
 
 ## 22-9-2025: v2025.21.0
-- Added lecture slides to [overview week 1.4](book/2025/overview/1_4.md)
+- Added lecture slides to [overview week 1.4](./2025/overview/1_4.md)
 
 ## 19-9-2025: v2025.20.0
-- Added [overview week 1.4](book/2025/overview/1_4.md)
+- Added [overview week 1.4](./2025/overview/1_4.md)
 
 ## 19-9-2025: v2025.19.0
-- Added GA 1.3 to [overview week 1.3](book/2025/overview/1_3.md)
+- Added GA 1.3 to [overview week 1.3](./2025/overview/1_3.md)
 
 ## 17-9-2025: v2025.18.0
-- Added workshop 1.3 to [overview week 1.3](book/2025/overview/1_3.md)
+- Added workshop 1.3 to [overview week 1.3](./2025/overview/1_3.md)
 
 ## 16-9-2025: v2025.17.0.pre-release
-- Added lecture slides to [overview week 1.3](book/2025/overview/1_3.md)
-- Added collegerama recording to [overview week 1.1](book/2025/overview/1_1.md), [overview week 1.2](book/2025/overview/1_2.md) and [overview week 1.3](book/2025/overview/1_3.md)
+- Added lecture slides to [overview week 1.3](./2025/overview/1_3.md)
+- Added collegerama recording to [overview week 1.1](./2025/overview/1_1.md), [overview week 1.2](./2025/overview/1_2.md) and [overview week 1.3](./2025/overview/1_3.md)
 
 ## 12-9-2025: v2025.16.0.pre-release
-- Added group assignment 1.2 to [overview week 1.2](book/2025/overview/1_2.md)
+- Added group assignment 1.2 to [overview week 1.2](./2025/overview/1_2.md)
 
 ## 10-9-2025: v2025.15.0.pre-release
-- Added workshop 1.2 to [overview week 1.2](book/2025/overview/1_2.md)
+- Added workshop 1.2 to [overview week 1.2](./2025/overview/1_2.md)
 
 ## 10-9-2025: v2025.14.1.pre-release
-- Added numerical modelling book chapters to [overview week 1.3](book/2025/overview/1_3.md)
+- Added numerical modelling book chapters to [overview week 1.3](./2025/overview/1_3.md)
 
 ## 7-9-2025: v2025.14.0.pre-release
-- Added lecture slides to [overview week 1.2](book/2025/overview/1_2.md)
+- Added lecture slides to [overview week 1.2](./2025/overview/1_2.md)
 
 ## 5-9-2025: v2025.13.0.pre-release
-- Added [overview week 1.2](book/2025/overview/1_2.md)
+- Added [overview week 1.2](./2025/overview/1_2.md)
 
 ## 5-9-2025: v2025.12.0.pre-release
-- Added group assignment 1.1 to [overview week 1](book/2025/overview/1_1.md)
+- Added group assignment 1.1 to [overview week 1](./2025/overview/1_1.md)
 
 ## 3-9-2025: v2025.11.0.pre-release
-- Added workshop 1.1 to [overview week 1](book/2025/overview/1_1.md)
+- Added workshop 1.1 to [overview week 1](./2025/overview/1_1.md)
 
 ## 2-9-2025: v2025.10.0.pre-release
-- Added lecture slides to [overview week 1](book/2025/overview/1_1.md)
+- Added lecture slides to [overview week 1](./2025/overview/1_1.md)
 
 ## 20-8-2025: v2025.9.0.pre-release
 - Added old exams page to current year
