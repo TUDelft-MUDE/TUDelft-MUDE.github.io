@@ -1,5 +1,8 @@
 # Changelog
 
+## 24-9-2025: v2025.22.0
+- Added workshop 1.4 to [overview week 1.4](./2025/overview/1_4.md)
+
 ## 22-9-2025: v2025.21.1
 - Added full version of lecture slides to [overview week 1.4](./2025/overview/1_4.md)
 
