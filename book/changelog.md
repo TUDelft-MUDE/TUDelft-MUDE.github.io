@@ -1,5 +1,8 @@
 # Changelog
 
+## 25-9-2025: v2025.23.0 pre-release
+- Added GA 1.4 to [overview week 1.4](./2025/overview/1_4.md)
+- 
 ## 24-9-2025: v2025.22.0
 - Added workshop 1.4 to [overview week 1.4](./2025/overview/1_4.md)
 
