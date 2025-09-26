@@ -1,5 +1,8 @@
 # Changelog
 
+## 26-9-2025: v2025.24.0 pre-release
+- Added PA 1.5 to [overview week 1.5](./2025/overview/1_5.md)
+
 ## 25-9-2025: v2025.23.0 pre-release
 - Added GA 1.4 to [overview week 1.4](./2025/overview/1_4.md)
 
