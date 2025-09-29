@@ -1,6 +1,6 @@
 # Changelog
 
-## 26-9-2025: v2025.24.0 pre-release
+## 26-9-2025: v2025.25.0 pre-release
 - Added lecture slides to [overview week 1.5](./2025/overview/1_5.md)
 
 ## 26-9-2025: v2025.24.0 pre-release
