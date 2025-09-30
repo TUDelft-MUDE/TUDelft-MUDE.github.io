@@ -1,5 +1,8 @@
 # Changelog
 
+## 31-9-2025: v2025.26.0 pre-release
+- Added WS 1.5 to [overview week 1.5](./2025/overview/1_5.md)
+
 ## 26-9-2025: v2025.25.0 pre-release
 - Added lecture slides to [overview week 1.5](./2025/overview/1_5.md)
 
