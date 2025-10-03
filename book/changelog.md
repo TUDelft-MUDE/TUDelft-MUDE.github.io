@@ -1,28 +1,8 @@
 # Changelog
 
-## 25-9-2025: v2025.23.0 pre-release
-- Added GA 1.5 to [overview week 1.5](./2025/overview/1_5.md)
 
-## 31-9-2025: v2025.26.0 pre-release
-- Added WS 1.5 to [overview week 1.5](./2025/overview/1_5.md)
-
-## 26-9-2025: v2025.25.0 pre-release
-- Added lecture slides to [overview week 1.5](./2025/overview/1_5.md)
-
-## 26-9-2025: v2025.24.0 pre-release
-- Added PA 1.5 to [overview week 1.5](./2025/overview/1_5.md)
-
-## 25-9-2025: v2025.23.0 pre-release
-- Added GA 1.4 to [overview week 1.4](./2025/overview/1_4.md)
-
-## 24-9-2025: v2025.22.0
-- Added workshop 1.4 to [overview week 1.4](./2025/overview/1_4.md)
-
-## 22-9-2025: v2025.21.1
-- Added full version of lecture slides to [overview week 1.4](./2025/overview/1_4.md)
-
-## 22-9-2025: v2025.21.0
-- Added lecture slides to [overview week 1.4](./2025/overview/1_4.md)
+## 03-10-2025: v2025.23.0 pre-release
+- Added [overview week 1.5](./2025/overview/1_6.md), includes book chapter and PA 1.6
 
 ## 19-9-2025: v2025.20.0
 - Added [overview week 1.4](./2025/overview/1_4.md)
