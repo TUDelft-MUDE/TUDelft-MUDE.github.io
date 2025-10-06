@@ -1,5 +1,7 @@
 # Changelog
 
+## 03-10-2025: v2025.24.0 
+- Added lecture slides to [overview week 1.6](./2025/overview/1_6.md)
 
 ## 03-10-2025: v2025.23.0 pre-release
 - Added [overview week 1.5](./2025/overview/1_6.md), includes book chapter and PA 1.6
