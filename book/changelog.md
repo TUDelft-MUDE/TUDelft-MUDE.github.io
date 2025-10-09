@@ -1,6 +1,9 @@
 # Changelog
 
-## 03-10-2025: v2025.25.0 pre-release
+## 09-10-2025: v2025.26.0 pre-release
+- Added GA 1.6 [overview week 1.6](./2025/overview/1_6.md)
+
+## 08-10-2025: v2025.25.0 pre-release
 - Added WS 1.6 [overview week 1.6](./2025/overview/1_6.md)
 
 ## 03-10-2025: v2025.24.0 
