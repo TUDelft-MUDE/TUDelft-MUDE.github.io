@@ -1,5 +1,8 @@
 # Changelog
 
+## 10-0-2025: v2025.28.0.pre-release
+- Added collegerama recording to [overview week 1.4](./2025/overview/1_4.md), [overview week 1.5](./2025/overview/1_5.md) and [overview week 1.6](./2025/overview/1_6.md)
+
 ## 10-10-2025: v2025.27.0.pre-release
 - Added lecture slides to [overview week 1.7](./2025/overview/1_7.md)
 
