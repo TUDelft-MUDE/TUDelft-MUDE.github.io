@@ -4,9 +4,9 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 | Week          | Topic                     | Programming Topic           |
 |---------------|---------------------------|-----------------------------|
-| 1.1           | Modelling Concepts        | Installation                |
+| 1.1           | Modelling Concepts        | Your computer and Installation                |
 | 1.2           | Numerical Modelling 1     | Report in markdown          |
-| 1.3           | Numerical Modelling 2     | VS Share / autocompletion   |
+| 1.3           | Numerical Modelling 2     | VS Share and autocompletion   |
 | 1.4           | Univariate Distributions  | Git basics                  |
 | 1.5           | Multivariate Distributions| Git branching and merging   |
 | 1.6           | Uncertainty Propagation   | LLM tools, PY scripts       |
