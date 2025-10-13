@@ -1,5 +1,8 @@
 # Changelog
 
+## 13-10-2025: v2025.29.0.pre-release
+Added collegerama recording to [overview week 1.7](./2025/overview/1_7.md)
+
 ## 13-10-2025: v2025.28.1.pre-release
 - Updated theory listed in [overview week 1.7](./2025/overview/1_7.md) 
 - Fixed book links in [overview week 1.7](./2025/overview/1_7.md)
