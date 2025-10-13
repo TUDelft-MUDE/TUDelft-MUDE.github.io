@@ -1,6 +1,10 @@
 # Changelog
 
-## 10-0-2025: v2025.28.0.pre-release
+## 13-10-2025: v2025.28.1.pre-release
+- Updated theory listed in [overview week 1.7](./2025/overview/1_7.md) 
+- Fixed book links in [overview week 1.7](./2025/overview/1_7.md)
+
+## 10-10-2025: v2025.28.0.pre-release
 - Added collegerama recording to [overview week 1.4](./2025/overview/1_4.md), [overview week 1.5](./2025/overview/1_5.md) and [overview week 1.6](./2025/overview/1_6.md)
 - Added PA 1.7 to [overview week 1.7](./2025/overview/1_7.md)
 - Added book chapter on Observation Theory to [overview week 1.7](./2025/overview/1_7.md)
