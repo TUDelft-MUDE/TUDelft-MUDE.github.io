@@ -1,5 +1,8 @@
 # Changelog
 
+## 14-10-2025: v2025.30.0.pre-release
+- Added WS 1.7 [overview week 1.7](./2025/overview/1_7.md)
+
 ## 13-10-2025: v2025.29.0.pre-release
 Added collegerama recording to [overview week 1.7](./2025/overview/1_7.md)
 
