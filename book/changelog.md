@@ -1,5 +1,8 @@
 # Changelog
 
+## 16-10-2025: v2025.31.0.pre-release
+- Added GA 1.7 [overview week 1.7](./2025/overview/1_7.md)
+
 ## 14-10-2025: v2025.30.0.pre-release
 - Added WS 1.7 [overview week 1.7](./2025/overview/1_7.md)
 
