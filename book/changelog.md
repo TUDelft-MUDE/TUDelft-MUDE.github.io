@@ -1,5 +1,8 @@
 # Changelog
 
+## 17-10-2025: v2025.31.0.pre-release
+- Added relevant book chapters to [overview week 1.8](./2025/overview/1_8.md)
+
 ## 16-10-2025: v2025.31.0.pre-release
 - Added GA 1.7 [overview week 1.7](./2025/overview/1_7.md)
 
