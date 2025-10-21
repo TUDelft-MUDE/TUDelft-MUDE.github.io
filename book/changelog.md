@@ -1,4 +1,8 @@
 # Changelog
+
+## 22-10-2025: v2025.33.0.pre-release
+- Added WS 1.8 to [overview week 1.8](./2025/overview/1_8.md)
+
 ## 20-10-2025: v2025.32.0.pre-release
 - Added collegerama recording to [overview week 1.8](./2025/overview/1_8.md)
 
