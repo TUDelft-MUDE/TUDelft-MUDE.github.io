@@ -30,6 +30,9 @@ parts:
       title: Book
     - url: https://mude.citg.tudelft.nl/workbook-2025/
       title: Workbook
+      chapters:
+      - url: https://mude.citg.tudelft.nl/workbook-2025/no_solutions
+        title: Workbook without solutions
     - url: https://brightspace.tudelft.nl/d2l/home/774319
       title: Brightspace - announcements, course information, buddycheck, grades
     - url: https://answers.citg.tudelft.nl/
