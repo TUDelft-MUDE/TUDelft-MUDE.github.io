@@ -1,5 +1,8 @@
 # Changelog
 
+## 23-10-2025: v2025.34.0.pre-release
+- Added workbook without solutions
+
 ## 22-10-2025: v2025.33.0.pre-release
 - Added WS 1.8 to [overview week 1.8](./2025/overview/1_8.md)
 
