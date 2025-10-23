@@ -1,7 +1,7 @@
 teachbooks
 
-git+https://github.com/TeachBooks/TeachBooks-Favourites
+git+https://github.com/TeachBooks/TeachBooks-Favourites #BUMP
 sphinx-tudelft-theme
 
 # Now list the packages you want to download directly from GitHub
-git+https://github.com/TeachBooks/Sphinx-Thebe
+git+https://github.com/TeachBooks/Sphinx-Thebe 
