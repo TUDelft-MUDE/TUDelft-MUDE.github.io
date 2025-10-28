@@ -42,13 +42,13 @@ Note that for the 2022-2023 academic year the format of the module and specific 
 - Some questions or portions of questions may make reference to topics that have not been covered in the current academic year. For example, ‘W-test’ in sensing and observation theory was not covered, so you may exclude this topic for your studies.
 - Previous time series questions looked at ARMA: this is not part of this year's exam (specifically MA = moving average; AR = autoregressive is part of the exam!). In addition, the Partial ACF (PACF) may appear on previous exams in 2022-2023, but is not required this year.
 - Extreme value analysis was covered in a reduced form and has been expanded since 2023-2024.
-- The coding questions are not covered of this year's exam
 
 The old exams:
 - 2022-2023 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.html)
   - Risk Analysis: series/parallel systems and effect of dependence on failure probability are not part of this year's exam. This includes 9a and 9b
   - The FEM question is missing a solution for multiple choice question 2d: the answer is C
   - Question that apply for Q2 this year: 2 to 12
+  - The coding question are not part of this year's topics.
 - 2022-2023 Q2 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.html)
   - Risk Analysis: series/parallel systems and effect of dependence on failure probability are not part of this year's exam. This includes 10c and 10d
   - For optimization, remember you are expected to have a clear understanding behind the Simplex method and how to do it, but will not need to do the calculations by hand (Q2 exam Part 5, Optimization question 2 illustrates doing it by hand).
@@ -57,6 +57,8 @@ The old exams:
 - 2022-2023 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.html)
   - Questions that apply for Q1 this year: 3 to 8
   - Questions that apply for Q2 this year: 2
+  - The coding questions are art of this year's Q2 topics
 - 2022-2023 Q1 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1.html)
   - Questions that apply for Q1 this year: 3 to 8
   - Questions that apply for Q2 this year: 2
+  - The coding questions are art of this year's Q2 topics
