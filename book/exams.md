@@ -14,6 +14,7 @@ An example formula sheet is provided [here](https://archive.mude.citg.tudelft.nl
 
 Some changes:
 - Finite difference method was covered in Q1 in 2024-2025, it is now in Q2.
+- Object-oriented programming was covered in Q1 in 2024-2025, it's now in Q2.
 
 The old exams:
 - 2024-2025 Q2 resit: [`.pdf` as provided during exam](https://files.mude.citg.tudelft.nl/2024-2025_Q2_R.pdf) and [`.pdf` including answer](https://files.mude.citg.tudelft.nl/2024_Exam_Q2_R_answers.pdf)
@@ -25,6 +26,7 @@ The old exams:
 
 Some changes:
 - Finite difference method was covered in Q1 in 2023-2024, it is now in Q2.
+- Object-oriented programming was covered in Q1 in 2024-2025, it's now in Q2.
 
 The old exams:
 - 2023-2024 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.html)
@@ -40,6 +42,7 @@ Note that for the 2022-2023 academic year the format of the module and specific 
 - Some questions or portions of questions may make reference to topics that have not been covered in the current academic year. For example, ‘W-test’ in sensing and observation theory was not covered, so you may exclude this topic for your studies.
 - Previous time series questions looked at ARMA: this is not part of this year's exam (specifically MA = moving average; AR = autoregressive is part of the exam!). In addition, the Partial ACF (PACF) may appear on previous exams in 2022-2023, but is not required this year.
 - Extreme value analysis was covered in a reduced form and has been expanded since 2023-2024.
+- The coding questions are not covered of this year's exam
 
 The old exams:
 - 2022-2023 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.html)
@@ -50,6 +53,7 @@ The old exams:
   - Risk Analysis: series/parallel systems and effect of dependence on failure probability are not part of this year's exam. This includes 10c and 10d
   - For optimization, remember you are expected to have a clear understanding behind the Simplex method and how to do it, but will not need to do the calculations by hand (Q2 exam Part 5, Optimization question 2 illustrates doing it by hand).
   - Question that apply for Q2 this year: 2 to 10.
+  - The coding question are not part of this year's topics.
 - 2022-2023 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.html)
   - Questions that apply for Q1 this year: 3 to 8
   - Questions that apply for Q2 this year: 2
