@@ -8,6 +8,7 @@ Some general remarks:
 - A portion of the questions this year will take inspiration from the assignments we have done on Wednesday and Friday (but not all of the questions) and the programming assignments; it would be wise to review this when preparing for the exam.
 - In addition, programming topics changed over the years: questions from previous years illustrate how programming will be asked, but not necessarily the content. As the scope of Programming Assignments changes from year to year, you may see topics that are unfamiliar to you.
 
+The formula sheet for the Q1 2025 exam is provided [here](https://files.mude.citg.tudelft.nl/formula_shhet_q1_2025.pdf)
 An example formula sheet is provided [here](https://archive.mude.citg.tudelft.nl/2024/files/Exams/Sample_Formula_Sheet.pdf)
 
 ## 2024-2025 exams
