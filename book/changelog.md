@@ -1,5 +1,8 @@
 # Changelog
 
+## 30-10-2025: v2025.35.0.pre-release
+- Added formula sheet for Q1 2025 to [Old exama](exams.md)
+
 ## 23-10-2025: v2025.34.0.pre-release
 - Added workbook without solutions
 
