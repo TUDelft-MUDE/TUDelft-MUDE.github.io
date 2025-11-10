@@ -14,8 +14,8 @@ parts:
       - file: 2025/overview/1_6.md
       - file: 2025/overview/1_7.md
       - file: 2025/overview/1_8.md
-# START REMOVE-FROM-PUBLISH
       - file: 2025/overview/2_1.md
+# START REMOVE-FROM-PUBLISH
       - file: 2025/overview/2_2.md
       - file: 2025/overview/2_3.md
       - file: 2025/overview/2_4.md
