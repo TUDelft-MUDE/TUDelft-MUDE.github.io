@@ -1,5 +1,9 @@
 # Changelog
 
+## 10-11-2025: v2025.36.2.pre-release
+- Added WS 2.1 to [overview week 2.1](./2025/overview/2_1.md)
+- Added GA 1.8 to [overview week 1.8](./2025/overview/1_8.md)
+
 ## 10-11-2025: v2025.36.1.pre-release
 - Added lecture slides to [overview week 2.1](./2025/overview/2_1.md)
 
