@@ -1,5 +1,8 @@
 # Changelog
 
+## 13-11-2025: v2025.36.3.0
+- Added GA 2.1 to [overview week 2.1](./2025/overview/2_1.md)
+  
 ## 10-11-2025: v2025.36.2.pre-release
 - Added WS 2.1 to [overview week 2.1](./2025/overview/2_1.md)
 - Added GA 1.8 to [overview week 1.8](./2025/overview/1_8.md)
