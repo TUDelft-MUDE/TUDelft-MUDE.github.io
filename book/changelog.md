@@ -1,10 +1,13 @@
 # Changelog
 
 
-## 14-11-2025: v2025.37.0.0
+## 15-11-2025: v2025.37.1
+- Comment on final page not being exam material [overview week 2.2](./2025/overview/2_2.md)
+
+## 14-11-2025: v2025.37.0
 - Added [overview week 2.2](./2025/overview/2_2.md)
   
-## 13-11-2025: v2025.36.3.0
+## 13-11-2025: v2025.36.3
 - Added GA 2.1 to [overview week 2.1](./2025/overview/2_1.md)
   
 ## 10-11-2025: v2025.36.2.pre-release
