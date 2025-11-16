@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 16-11-2025: v2025.37.2
+- Added lecture slides to [overview week 2.2](./2025/overview/2_2.md)
+
 ## 15-11-2025: v2025.37.1
 - Comment on final page not being exam material [overview week 2.2](./2025/overview/2_2.md)
 
