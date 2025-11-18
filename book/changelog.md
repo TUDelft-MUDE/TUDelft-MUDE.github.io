@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 18-11-2025: v2025.37.4
+- Added WS 2.2 to [overview week 2.2](./2025/overview/2_2.md)
+
 ## 17-11-2025: v2025.37.3
 - Added link to collegerama recording to [overview week 2.1](./2025/overview/2_1.md)
 - Added link to collegerama recording to [overview week 2.2](./2025/overview/2_2.md)
