@@ -1,5 +1,7 @@
 # Changelog
 
+## 19-11-2025: v2025.38.0
+- Added exam Q1 to [](./exams.md)
 
 ## 18-11-2025: v2025.37.4
 - Added WS 2.2 to [overview week 2.2](./2025/overview/2_2.md)
