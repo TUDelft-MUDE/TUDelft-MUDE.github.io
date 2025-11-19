@@ -12,6 +12,11 @@ The formula sheet for the Q1 2025 exam is provided [here](https://files.mude.cit
 
 An example of a previous formula sheet is provided [here](https://archive.mude.citg.tudelft.nl/2024/files/Exams/Sample_Formula_Sheet.pdf)
 
+## 2025-2026 exams
+
+- 2025-2026 Q1 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/MUDE-exam_Q1_2025.pdf) and [`.pdf` including answer](https://github.com/TUDelft-MUDE/source-files/raw/main/file/MUDE-exam-answers_Q1_2025.pdf)
+
+
 ## 2024-2025 exams
 
 Some changes:
