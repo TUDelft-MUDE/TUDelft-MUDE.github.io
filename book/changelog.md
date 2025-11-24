@@ -1,7 +1,11 @@
 # Changelog
 ## 22-11-2025: v2025.38.1
 - Added overview pages to the book
-  
+
+## 24-11-2025: v2025.39.0
+- Added lecture slides to [][./2025/overview/2_3.md]
+
+
 ## 19-11-2025: v2025.38.0
 - Added exam Q1 to [](./exams.md)
 
