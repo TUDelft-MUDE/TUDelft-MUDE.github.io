@@ -1,4 +1,8 @@
 # Changelog
+
+## 25-11-2025: v2025.39.1
+- Added WS 2.3 to [][./2025/overview/2_3.md]
+
 ## 22-11-2025: v2025.38.1
 - Added overview pages to the book
 
