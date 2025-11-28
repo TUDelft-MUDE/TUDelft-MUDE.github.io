@@ -1,5 +1,8 @@
 # Changelog
 
+## 25-11-2025: v2025.40.0.pre-release
+- Added [][./2025/overview/2_4.md]
+
 ## 25-11-2025: v2025.39.pre-release
 - Added GA 2.3 to [][./2025/overview/2_3.md]
 
