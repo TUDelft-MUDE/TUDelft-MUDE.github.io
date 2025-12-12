@@ -1,5 +1,8 @@
 # Changelog
 
+## 12-12-2025: v2025.42.02pre-release
+- Added [][./2025/overview/2_6.md]
+
 ## 11-12-2025: v2025.41.1.pre-release
 - Added GA 2.5 to [][./2025/overview/2_5.md]
 - Added WS 2.5 to [][./2025/overview/2_5.md]
