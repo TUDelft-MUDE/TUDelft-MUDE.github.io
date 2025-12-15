@@ -1,5 +1,8 @@
 # Changelog
 
+## 15-12-2025: v2025.43.0
+- Added lecture slides to [][./2025/overview/2_6.md]
+
 ## 12-12-2025: v2025.42.02pre-release
 - Added [][./2025/overview/2_6.md]
 
