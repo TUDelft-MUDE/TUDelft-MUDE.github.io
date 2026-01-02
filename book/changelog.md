@@ -1,5 +1,10 @@
 # Changelog
 
+## 02-01-2026: v2026.01.pre-release
+- Added [][./2025/overview/2_7.md]
+- Added GA 2.6 to [][./2025/overview/2_6.md]
+- Added WS 2.6 to [][./2025/overview/2_6.md]
+
 ## 15-12-2025: v2025.43.0
 - Added lecture slides to [][./2025/overview/2_6.md]
 
