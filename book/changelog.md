@@ -1,5 +1,8 @@
 # Changelog
 
+## 05-01-2026: v2026.02
+- Added book, recording, and slides [][./2025/overview/2_7.md]
+
 ## 02-01-2026: v2026.01.pre-release
 - Added [][./2025/overview/2_7.md]
 - Added GA 2.6 to [][./2025/overview/2_6.md]
