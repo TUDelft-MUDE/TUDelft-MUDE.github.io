@@ -1,4 +1,6 @@
 # Changelog
+## 07-01-2026:v2026.03
+- Added WS 2.7 [][./2025/overview/2_7.md]
 
 ## 05-01-2026: v2026.02
 - Added book, recording, and slides [][./2025/overview/2_7.md]
