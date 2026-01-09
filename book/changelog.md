@@ -1,8 +1,13 @@
 # Changelog
-## 07-01-2026:v2026.03
+
+## 09-01-2026: v2026.04.pre-release
+- Added [][./2025/overview/2_8.md]
+- Added GA 2.7 to [][./2025/overview/2_7.md]
+
+## 07-01-2026:v2026.03.0
 - Added WS 2.7 [][./2025/overview/2_7.md]
 
-## 05-01-2026: v2026.02
+## 05-01-2026: v2026.02.0
 - Added book, recording, and slides [][./2025/overview/2_7.md]
 
 ## 02-01-2026: v2026.01.pre-release
