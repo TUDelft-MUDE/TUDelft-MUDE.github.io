@@ -1,16 +1,16 @@
 # Changelog
 
-## 09-01-2026: v2026.04.pre-release
+## 09-01-2026: v2025.47.0.pre-release
 - Added [][./2025/overview/2_8.md]
 - Added GA 2.7 to [][./2025/overview/2_7.md]
 
-## 07-01-2026:v2026.03.0
+## 07-01-2026: v2025.46.0.pre-release
 - Added WS 2.7 [][./2025/overview/2_7.md]
 
-## 05-01-2026: v2026.02.0
+## 05-01-2026: v2025.45.0.pre-release
 - Added book, recording, and slides [][./2025/overview/2_7.md]
 
-## 02-01-2026: v2026.01.pre-release
+## 02-01-2026: v2025.44.0.pre-release
 - Added [][./2025/overview/2_7.md]
 - Added GA 2.6 to [][./2025/overview/2_6.md]
 - Added WS 2.6 to [][./2025/overview/2_6.md]
@@ -18,14 +18,14 @@
 ## 15-12-2025: v2025.43.0
 - Added lecture slides to [][./2025/overview/2_6.md]
 
-## 12-12-2025: v2025.42.02pre-release
+## 12-12-2025: v2025.42.02.pre-release
 - Added [][./2025/overview/2_6.md]
 
 ## 11-12-2025: v2025.41.1.pre-release
 - Added GA 2.5 to [][./2025/overview/2_5.md]
 - Added WS 2.5 to [][./2025/overview/2_5.md]
 
-## 08-12-2025: v2025.41.02pre-release
+## 08-12-2025: v2025.41.02.pre-release
 - Added [][./2025/overview/2_5.md]
 
 ## 04-12-2025: v2025.40.1.pre-release
@@ -37,36 +37,35 @@
 ## 25-11-2025: v2025.39.pre-release
 - Added GA 2.3 to [][./2025/overview/2_3.md]
 
-## 25-11-2025: v2025.39.1
+## 25-11-2025: v2025.39.1.pre-release
 - Added WS 2.3 to [][./2025/overview/2_3.md]
 
-## 22-11-2025: v2025.38.1
+## 22-11-2025: v2025.38.1.pre-release
 - Added overview pages to the book
 
-## 24-11-2025: v2025.39.0
+## 24-11-2025: v2025.39.0.pre-release
 - Added lecture slides to [][./2025/overview/2_3.md]
 
-
-## 19-11-2025: v2025.38.0
+## 19-11-2025: v2025.38.0.pre-release
 - Added exam Q1 to [](./exams.md)
 
-## 18-11-2025: v2025.37.4
+## 18-11-2025: v2025.37.4.pre-release
 - Added WS 2.2 to [overview week 2.2](./2025/overview/2_2.md)
 
-## 17-11-2025: v2025.37.3
+## 17-11-2025: v2025.37.3.pre-release
 - Added link to collegerama recording to [overview week 2.1](./2025/overview/2_1.md)
 - Added link to collegerama recording to [overview week 2.2](./2025/overview/2_2.md)
 
-## 16-11-2025: v2025.37.2
+## 16-11-2025: v2025.37.2.pre-release
 - Added lecture slides to [overview week 2.2](./2025/overview/2_2.md)
 
-## 15-11-2025: v2025.37.1
+## 15-11-2025: v2025.37.1.pre-release
 - Comment on final page not being exam material [overview week 2.2](./2025/overview/2_2.md)
 
-## 14-11-2025: v2025.37.0
+## 14-11-2025: v2025.37.0.pre-release
 - Added [overview week 2.2](./2025/overview/2_2.md)
   
-## 13-11-2025: v2025.36.3
+## 13-11-2025: v2025.36.3.pre-release
 - Added GA 2.1 to [overview week 2.1](./2025/overview/2_1.md)
   
 ## 10-11-2025: v2025.36.2.pre-release
