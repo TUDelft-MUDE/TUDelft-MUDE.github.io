@@ -21,6 +21,7 @@ An example of a previous formula sheet is provided [here](https://archive.mude.c
 
 Some changes:
 - Finite difference method was covered in Q1 in 2024-2025, it is now in Q2.
+- Finite volume method was part of MUDE in 2024-2025, it is not in this edition. 
 - Object-oriented programming was covered in Q1 in 2024-2025, it's now in Q2.
 
 The old exams:
@@ -33,6 +34,7 @@ The old exams:
 
 Some changes:
 - Finite difference method was covered in Q1 in 2023-2024, it is now in Q2.
+- Finite volume method was part of MUDE in 2023-2024, it is not in this edition. 
 - Object-oriented programming was covered in Q1 in 2024-2025, it's now in Q2.
 
 The old exams:
