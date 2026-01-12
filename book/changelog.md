@@ -1,5 +1,9 @@
 # Changelog
 
+
+## 09-01-2026: v2025.47.1.0
+- Added slides to [][./2025/overview/2_8.md]
+
 ## 09-01-2026: v2025.47.0.pre-release
 - Added [][./2025/overview/2_8.md]
 - Added GA 2.7 to [][./2025/overview/2_7.md]
