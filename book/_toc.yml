@@ -37,8 +37,8 @@ parts:
       title: Brightspace - announcements, course information, buddycheck, grades (TU Delft login required)
 # END REMOVE-FROM-PUBLISH
     - url: https://answers.citg.tudelft.nl/
-      title: Answers
-    - url: https://mude.citg.tudelft.nl/fundamental-concepts/
+      title: Answers (TU Delft login required)
+    - url: https://mude.citg.tudelft.nl/fundamental-concepts/2025
       title: Fundamental concepts
     - file: exams.md
   - caption: MUDE archive
