@@ -8,7 +8,7 @@ Some general remarks:
 - A portion of the questions this year will take inspiration from the assignments we have done on Wednesday and Friday (but not all of the questions) and the programming assignments; it would be wise to review this when preparing for the exam.
 - In addition, programming topics changed over the years: questions from previous years illustrate how programming will be asked, but not necessarily the content. As the scope of Programming Assignments changes from year to year, you may see topics that are unfamiliar to you.
 
-The formula sheet for the Q1 2025 exam is provided [here](https://files.mude.citg.tudelft.nl/formula_shhet_q1_2025.pdf)
+The formula sheet for the Q1 2025 exam is provided [here](https://github.com/TUDelft-MUDE/source-files/raw/main/file/formula_shhet_q1_2025.pdf)
 
 An example of a previous formula sheet is provided [here](https://archive.mude.citg.tudelft.nl/2024/files/Exams/Sample_Formula_Sheet.pdf)
 
@@ -25,10 +25,10 @@ Some changes:
 - Object-oriented programming was covered in Q1 in 2024-2025, it's now in Q2.
 
 The old exams:
-- 2024-2025 Q2 resit: [`.pdf` as provided during exam](https://files.mude.citg.tudelft.nl/2024-2025_Q2_R.pdf) and [`.pdf` including answer](https://files.mude.citg.tudelft.nl/2024_Exam_Q2_R_answers.pdf)
-- 2024-2025 Q2 exam: [`.pdf` as provided during exam](https://files.mude.citg.tudelft.nl/2024-2025_Q2.pdf) and [`.pdf` including answers](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf)
-- 2024-2025 Q1 resit: [`.pdf` as provided during exam](https://files.mude.citg.tudelft.nl/2024-2025_Q1_R.pdf) and [`.pdf` including answers](https://files.mude.citg.tudelft.nl/2024-2025_Q1_R_answers.pdf)
-- 2024-2025 Q1 exam: [`.pdf` as provided during exam](https://files.mude.citg.tudelft.nl/24_Q1.pdf) and [`.pdf` including answers](https://files.mude.citg.tudelft.nl/24_Q1_answers.pdf)
+- 2024-2025 Q2 resit: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q2_R.pdf) and [`.pdf` including answer](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024_Exam_Q2_R_answers.pdf)
+- 2024-2025 Q2 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q2.pdf) and [`.pdf` including answers](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf)
+- 2024-2025 Q1 resit: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q1_R.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q1_R_answers.pdf)
+- 2024-2025 Q1 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/24_Q1.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/24_Q1_answers.pdf)
 
 ## 2023-2024 exams
 
