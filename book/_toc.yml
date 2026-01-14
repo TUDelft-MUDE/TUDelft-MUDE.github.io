@@ -38,7 +38,7 @@ parts:
 # END REMOVE-FROM-PUBLISH
     - url: https://answers.citg.tudelft.nl/
       title: Answers (TU Delft login required)
-    - url: https://mude.citg.tudelft.nl/fundamental-concepts/2025
+    - url: https://mude.citg.tudelft.nl/fundamental-concepts
       title: Fundamental concepts
     - file: exams.md
   - caption: MUDE archive
