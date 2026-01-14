@@ -1,5 +1,7 @@
 # Changelog
 
+## 07-01-2026: v2025.46.2.pre-release
+- Added WS 2.8 [][./2025/overview/2_8.md]
 
 ## 09-01-2026: v2025.47.1.0
 - Added slides to [][./2025/overview/2_8.md]
