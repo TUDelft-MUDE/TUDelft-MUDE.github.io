@@ -2,7 +2,7 @@
 
 ## 15-01-2026: v2025.47.2.0
 - Added Collegerama link Week 2.3, 2.4, 2.5, 2.6, 2.8 to [][./2025/overview]
-- 
+
 ## 07-01-2026: v2025.46.2.pre-release
 - Added WS 2.8 [][./2025/overview/2_8.md]
 
