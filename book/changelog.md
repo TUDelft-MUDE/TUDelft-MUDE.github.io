@@ -1,7 +1,13 @@
 # Changelog
 
-## 07-01-2026: v2025.46.2.pre-release
-- Added WS 2.8 [][./2025/overview/2_8.md]
+## 17-01-2026: v2025.46.4.pre-release
+- Added GA 2.8 to [][./2025/overview/2_8.md]
+
+## 15-01-2026: v2025.47.3
+- Added Collegerama link Week 2.3, 2.4, 2.5, 2.6, 2.8 to [][./2025/overview]
+
+## 07-01-2026: v2025.47.2.pre-release
+- Added WS 2.8 to [][./2025/overview/2_8.md]
 
 ## 09-01-2026: v2025.47.1.0
 - Added slides to [][./2025/overview/2_8.md]
