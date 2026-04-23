@@ -2,9 +2,9 @@ format: jb-book
 root: intro.md
 
 parts:
+# START REMOVE-FROM-PUBLISH
   - caption: MUDE 2026-2027
     chapters:
-# START REMOVE-FROM-PUBLISH
     - file: 2026/overview.md
       sections:
       - file: 2026/overview/1_1.md
