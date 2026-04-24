@@ -31,6 +31,7 @@ parts:
       title: Workbook
     - url: https://mude.citg.tudelft.nl/workbook-2026/no_solutions
       title: Workbook without solutions
+    - file: 2026/exam.md
     - url: https://github.com/mude-2026/
       title: Current and submitted assignments (GitHub login required)
     - url: https://brightspace.tudelft.nl/d2l/home/774319
@@ -71,6 +72,7 @@ parts:
         title: Workbook
       - url: https://mude.citg.tudelft.nl/workbook-2025/no_solutions
         title: Workbook without solutions
+      - file: 2025/exam.md
       - url: https://github.com/mude-2025
         title: Assignment submissions (GitHub login required)
       - url: https://brightspace.tudelft.nl/d2l/home/774319

@@ -14,10 +14,8 @@ An example of a previous formula sheet is provided [here](https://archive.mude.c
 
 ## 2025-2026 exams
 
-- 2025-2026 Q2 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2025Q2.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2025Q2answers.pdf)
-- 2025-2026 Q1 resit: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2025Q1resit.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2025Q1resit_answers.pdf)
-- 2025-2026 Q1 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/MUDE-exam_Q1_2025.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/MUDE-exam-answers_Q1_2025.pdf)
-
+```{include} 2025/exam.md
+```
 
 ## 2024-2025 exams
 
