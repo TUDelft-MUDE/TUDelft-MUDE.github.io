@@ -45,7 +45,6 @@ parts:
     chapters:
     - file: archive.md
       title: Archive overview
-    - file: exams.md
     - file: archive/2025.md
       sections:
       - file: 2025/overview.md
@@ -122,6 +121,7 @@ parts:
       sections:
       - url: https://archive.mude.citg.tudelft.nl/2022
         title: Archive 2022 (TU Delft login required)
+    - file: exams.md
   - caption: How to teach or copy MUDE
     chapters:
     - url: https://mude.citg.tudelft.nl/book/2025
