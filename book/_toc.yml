@@ -2,9 +2,9 @@ format: jb-book
 root: intro.md
 
 parts:
-# START REMOVE-FROM-PUBLISH
   - caption: MUDE 2026-2027
     chapters:
+# START REMOVE-FROM-PUBLISH
     - file: 2026/overview.md
       sections:
       - file: 2026/overview/1_1.md
@@ -23,22 +23,28 @@ parts:
       - file: 2026/overview/2_6.md
       - file: 2026/overview/2_7.md
       - file: 2026/overview/2_8.md
+# END REMOVE-FROM-PUBLISH
     - url: https://mude.citg.tudelft.nl/incoming/
       title: Incoming students
-    - url: https://mude.citg.tudelft.nl/book/
+    - url: https://mude.citg.tudelft.nl/book/2026/
       title: Book
     - url: https://mude.citg.tudelft.nl/workbook-2026/
       title: Workbook
     - url: https://mude.citg.tudelft.nl/workbook-2026/no_solutions
       title: Workbook without solutions
+# START REMOVE-FROM-PUBLISH
     - file: 2026/exam.md
-    - url: https://github.com/mude-2026/
-      title: Current and submitted assignments (GitHub login required)
     - url: https://brightspace.tudelft.nl/d2l/home/774319
       title: Brightspace - announcements, course information, buddycheck, grades (TU Delft login required)
+# END REMOVE-FROM-PUBLISH
     - url: https://answers.citg.tudelft.nl/
       title: Answers (TU Delft login required)
-# END REMOVE-FROM-PUBLISH
+    - url: https://github.com/mude-2026/
+      title: Source files assignments
+    - url: https://github.com/TUDelft-MUDE/book/tree/2026
+      title: Source files book
+    - url: https://github.com/TUDelft-MUDE/workbook-2026
+      title: Source files workbook
   - caption: MUDE archive
     chapters:
     - file: archive.md
@@ -75,7 +81,7 @@ parts:
       - url: https://brightspace.tudelft.nl/d2l/home/774319
         title: Brightspace - announcements, course information, buddycheck, grades (TU Delft login required)
       - url: https://github.com/mude-2025/
-        title: Submitted assignments (GitHub login required) and source file assignments
+        title: Submitted assignments (GitHub login required) and source files assignments
       - url: https://mude.citg.tudelft.nl/fundamental-concepts/2025/
         title: Fundamental concepts
       - url: https://github.com/TUDelft-MUDE/book/tree/2025
