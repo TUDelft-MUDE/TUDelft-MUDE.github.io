@@ -4,10 +4,10 @@ root: intro.md
 parts:
   - caption: MUDE 2026-2027
     chapters:
-# START REMOVE-FROM-PUBLISH
     - file: 2026/overview.md
       sections:
       - file: 2026/overview/1_1.md
+# START REMOVE-FROM-PUBLISH
       - file: 2026/overview/1_2.md
       - file: 2026/overview/1_3.md
       - file: 2026/overview/1_4.md
@@ -34,9 +34,9 @@ parts:
       title: Workbook without solutions
 # START REMOVE-FROM-PUBLISH
     - file: 2026/exam.md
-    - url: https://brightspace.tudelft.nl/d2l/home/774319
-      title: Brightspace - announcements, course information, buddycheck, grades (TU Delft login required)
 # END REMOVE-FROM-PUBLISH
+    - url: https://brightspace.tudelft.nl/d2l/home/845111
+      title: Brightspace - announcements, course information, buddycheck, grades (TU Delft login required)
     - url: https://answers.citg.tudelft.nl/
       title: Answers (TU Delft login required)
     - url: https://github.com/mude-2026/
