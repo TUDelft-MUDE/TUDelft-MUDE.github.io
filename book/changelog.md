@@ -1,6 +1,7 @@
 # Changelog
 
 ## 2026-09-04: v2026.5.0.pre-release
+- Added link to report of group assignment for week 1.1
 - Added numerical modelling links for week 1.2
 - Added programming assignment links for week 1.2
 
