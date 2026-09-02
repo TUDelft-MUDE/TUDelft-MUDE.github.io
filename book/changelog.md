@@ -1,10 +1,13 @@
 # Changelog
 
+## 2026-09-02: v2026.3.0.pre-release
+Added workshop assignments links for week 1.1
+
 ## 2026-09-01: v2026.2.0.pre-release
-- Added collegerama video link for lecture in week 1.1
+Added collegerama video link for lecture in week 1.1
   
 ## 2026-08-31: v2026.1.0.pre-release
-- Added overview week 1: lecture and programming assignment
+Added overview week 1: lecture and programming assignment
 
 ## 2026-04-09: v2026.0.0.pre-release
-- Prepared book for 2026-2027 academic year
+Prepared book for 2026-2027 academic year
