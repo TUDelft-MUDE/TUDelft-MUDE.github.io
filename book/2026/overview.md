@@ -4,11 +4,11 @@ This page shows an overview of the book theory, lecture slides, assignments and 
 
 | Week          | Topic                     | Programming Topic           |
 |---------------|---------------------------|-----------------------------|
-| 1.1           | Modelling Concepts        | Your computer and Installation                |
+| 1.1           | -                         | Version control with Git    |
 | 1.2           | Numerical Modelling 1     | Report in markdown          |
-| 1.3           | Numerical Modelling 2     | VS Share and VS Intellisense   |
-| 1.4           | Univariate Distributions  | Version control with Git    |
-| 1.5           | Multivariate Distributions| Version control with Git    |
+| 1.3           | Numerical Modelling 2     | VS Share and VS Intellisense|
+| 1.4           | Univariate Distributions  |                             |
+| 1.5           | Multivariate Distributions|                             |
 | 1.6           | Uncertainty Propagation   | LLM tools, PY scripts       |
 | 1.7           | Observation Theory 1      | Debugging                   |
 | 1.8           | Observation Theory 2      | -                           |
