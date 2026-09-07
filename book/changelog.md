@@ -3,6 +3,7 @@
 ## 2026-09-07: v2026.5.1.pre-release
 - Removed broken link to numerical integration
 - Updated description on appendix content
+- Uploaded lecture slides and colledgedrama link
 
 ## 2026-09-04: v2026.5.0.pre-release
 - Added link to report of group assignment for week 1.1
