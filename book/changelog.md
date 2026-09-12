@@ -1,6 +1,7 @@
 # Changelog
 
 ## 2026-09-07: v2026.5.1.pre-release
+- Add workshop and group assignment links in Content Overview
 - Removed broken link to numerical integration
 - Updated description on appendix content
 - Uploaded lecture slides and colledgedrama link
