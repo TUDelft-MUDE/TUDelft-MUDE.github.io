@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-12: v2026.6.0.pre-release
+- Added workshop assignment links for week 1.2
+- Added group assignment links and report for week 1.2
+- Added programming assignment links for week 1.3
+- Updated overview pages for week 1.2 and week 1.3
+  
 ## 2026-09-07: v2026.5.1.pre-release
 - Removed broken link to numerical integration
 - Updated description on appendix content
