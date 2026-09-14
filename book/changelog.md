@@ -1,9 +1,16 @@
 # Changelog
 
-## 2026-09-07: v2026.5.1.pre-release
+## 2026-09-12: v2026.7.0.pre-release
+- Added workshop assignment links for week 1.2
+- Added group assignment links and report for week 1.2
+- Added programming assignment links for week 1.3
+- Updated overview pages for week 1.3
+- Add workshop and group assignment links in Content Overview
+
+## 2026-09-07: v2026.6.0.pre-release
 - Removed broken link to numerical integration
 - Updated description on appendix content
-- Uploaded lecture slides and colledgedrama link
+- Uploaded lecture slides and collegerama link
 
 ## 2026-09-04: v2026.5.0.pre-release
 - Added link to report of group assignment for week 1.1
