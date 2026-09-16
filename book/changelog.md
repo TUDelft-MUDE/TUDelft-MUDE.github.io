@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-14: v2026.9.0.pre-release
+- Added workshop assignment links for week 1.3
+
 ## 2026-09-14: v2026.8.0.pre-release
 - Added link to slides of lecture 1.3
 - Added collegerama video link for lecture in week 1.3
