@@ -1,7 +1,9 @@
 # Changelog
 
-## 2026-09-14: v2026.10.0.pre-release
-- Added Group assignment links for week 1.3
+## 2026-09-18: v2026.10.0.pre-release
+- Added links to book chapters for week 1.4
+- Added links to PA for week 1.4
+- Added GA links to week 1.3
 
 ## 2026-09-14: v2026.9.0.pre-release
 - Added workshop assignment links for week 1.3
