@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-23: v2026.12.0.pre-release
+- Added workshop assignment links for week 1.4
+
 ## 2026-09-21: v2026.11.0.pre-release
 - Slides for lecture 1.4
 
