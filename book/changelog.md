@@ -1,5 +1,9 @@
 # Changelog
 
+
+## 2026-09-25: v2026.13.0.pre-release
+- Added group assignment links for week 1.4
+
 ## 2026-09-23: v2026.12.0.pre-release
 - Added workshop assignment links for week 1.4
 
