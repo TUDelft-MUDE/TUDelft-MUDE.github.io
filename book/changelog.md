@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-28: v2026.14.0.pre-release
+- Slides for lecture 1.5
+
 ## 2026-09-25: v2026.13.0.pre-release
 - Added links to book chapters for week 1.5
 - Added links to PA for week 1.5
