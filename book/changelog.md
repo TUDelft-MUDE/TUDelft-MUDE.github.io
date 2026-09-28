@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-28: v2026.15.0.pre-release
+- Added collegerama video link for lecture in week 1.5
+
 ## 2026-09-28: v2026.14.0.pre-release
 - Slides for lecture 1.5
 
