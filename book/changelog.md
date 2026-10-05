@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-05: v2026.18.0.pre-release
+- Added lecture slides week 1.6
+
 ## 2026-10-02: v2026.17.0.pre-release
 - Added group assignment links for week 1.5 + report / solution
 - Added links to book chapters for week 1.6
