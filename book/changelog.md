@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-05: v2026.19.0.pre-release
+- Added collegerama video link for week 1.6.
+
 ## 2026-10-05: v2026.18.0.pre-release
 - Added lecture slides week 1.6
 
