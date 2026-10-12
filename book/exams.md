@@ -1,73 +1,45 @@
 # Old exams
 
-Exams and resits from previous years available here. The exams are provided in two formats, with and without answers.
+Exams and resits from previous years available here. Recent exams are provided in two formats, with and without answers, where the one without answers is formatted as provided at the exam. 
 
 Some general remarks:
-- The style of questions in the old exams is representative of the style of questions you will see this year.
+- The formatting and style of questions of the old exams is representative of what you will see this year.
 - The scope of the exam is governed by the contents of the online textbook, and exceptions are stated in the book. If you see a discrepancy between the textbook and the sample exams, the textbook governs.
 - A portion of the questions this year will take inspiration from the assignments we have done on Wednesday and Friday (but not all of the questions) and the programming assignments; it would be wise to review this when preparing for the exam.
 - In addition, programming topics changed over the years: questions from previous years illustrate how programming will be asked, but not necessarily the content. As the scope of Programming Assignments changes from year to year, you may see topics that are unfamiliar to you.
 
-The formula sheet for the Q1 2025 exam is provided [here](https://github.com/TUDelft-MUDE/source-files/raw/main/file/formula_shhet_q1_2025.pdf)
+Changes to the scope of the module over the years: 
+- Since 2026/27, univariate distributions and Taylor series expansions are not independent exam topics anymore. Questions about these topics (i.e. topics that are in the appendix of present year's book) are not representative for what you can expect this year. 
+- The finite volume method was part of MUDE in 2023/24 and 2024/25. It is not in this edition. 
+- The finite difference method for PDEs was in Q1 in 2023/24 and 2024/25. It is in Q2 in this edition. 
+- The scope in 2022/23 differed significantly from the present scope. Those exams are less representative but included for completeness. 
 
-An example of a previous formula sheet is provided [here](https://archive.mude.citg.tudelft.nl/2024/files/Exams/Sample_Formula_Sheet.pdf)
 
 ## 2025-2026 exams
+
+The formula sheet for the Q1 2025 exam is provided [here](https://github.com/TUDelft-MUDE/source-files/raw/main/file/formula_sheet_q1_2025.pdf)
 
 ```{include} 2025/exam.md
 ```
 
 ## 2024-2025 exams
 
-Some changes:
-- Finite difference method was covered in Q1 in 2024-2025, it is now in Q2.
-- Finite volume method was part of MUDE in 2024-2025, it is not in this edition. 
-- Object-oriented programming was covered in Q1 in 2024-2025, it's now in Q2.
-
-The old exams:
-- 2024-2025 Q2 resit: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q2_R.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024_Exam_Q2_R_answers.pdf)
-- 2024-2025 Q2 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q2.pdf) and [`.pdf` including answers](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf)
-- 2024-2025 Q1 resit: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q1_R.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q1_R_answers.pdf)
 - 2024-2025 Q1 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/24_Q1.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/24_Q1_answers.pdf)
+- 2024-2025 Q1 resit: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q1_R.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q1_R_answers.pdf)
+- 2024-2025 Q2 exam: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q2.pdf) and [`.pdf` including answers](https://archive.mude.citg.tudelft.nl/2024/files/Exams/24_Q2.pdf)
+- 2024-2025 Q2 resit: [`.pdf` as provided during exam](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024-2025_Q2_R.pdf) and [`.pdf` including answers](https://github.com/TUDelft-MUDE/source-files/raw/main/file/2024_Exam_Q2_R_answers.pdf)
 
 ## 2023-2024 exams
 
-Some changes:
-- Finite difference method was covered in Q1 in 2023-2024, it is now in Q2.
-- Finite volume method was part of MUDE in 2023-2024, it is not in this edition. 
-- Object-oriented programming was covered in Q1 in 2024-2025, it's now in Q2.
-
-The old exams:
-- 2023-2024 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.html)
-- 2023-2024 Q2 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2.html)
-- 2023-2024 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q1_resit.html)
 - 2023-2024 Q1 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q1.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q1.html)
+- 2023-2024 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q1_resit.html)
+- 2023-2024 Q2 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2.html)
+- 2023-2024 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/23_Q2_resit.html)
 
 ## 2022-2023 exams
 
-Note that for the 2022-2023 academic year the format of the module and specific topics were significantly different. Leading to changes in the exams too:
-
-- There were around 8 or 9 “Questions” on the exam, each with multiple sub-questions. This year there will be fewer “Questions,” which of course means the value (in points) will be more for each of them.
-- Some questions or portions of questions may make reference to topics that have not been covered in the current academic year. For example, ‘W-test’ in sensing and observation theory was not covered, so you may exclude this topic for your studies.
-- Previous time series questions looked at ARMA: this is not part of this year's exam (specifically MA = moving average; AR = autoregressive is part of the exam!). In addition, the Partial ACF (PACF) may appear on previous exams in 2022-2023, but is not required this year.
-- Extreme value analysis was covered in a reduced form and has been expanded since 2023-2024.
-
 The old exams:
-- 2022-2023 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.html)
-  - Risk Analysis: series/parallel systems and effect of dependence on failure probability are not part of this year's exam. This includes 9a and 9b
-  - The FEM question is missing a solution for multiple choice question 2d: the answer is C
-  - Question that apply for Q2 this year: 2 to 12
-  - The coding question are not part of this year's topics.
-- 2022-2023 Q2 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.html)
-  - Risk Analysis: series/parallel systems and effect of dependence on failure probability are not part of this year's exam. This includes 10c and 10d
-  - For optimization, remember you are expected to have a clear understanding behind the Simplex method and how to do it, but will not need to do the calculations by hand (Q2 exam Part 5, Optimization question 2 illustrates doing it by hand).
-  - Question that apply for Q2 this year: 2 to 10.
-  - The coding question are not part of this year's topics.
-- 2022-2023 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.html)
-  - Questions that apply for Q1 this year: 3 to 8
-  - Questions that apply for Q2 this year: 2
-  - The coding questions are art of this year's Q2 topics
 - 2022-2023 Q1 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1.html)
-  - Questions that apply for Q1 this year: 3 to 8
-  - Questions that apply for Q2 this year: 2
-  - The coding questions are art of this year's Q2 topics
+- 2022-2023 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.html)
+- 2022-2023 Q2 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.html)
+- 2022-2023 Q2 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2_resit.html)
