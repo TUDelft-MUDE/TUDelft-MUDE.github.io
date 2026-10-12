@@ -38,7 +38,6 @@ The formula sheet for the Q1 2025 exam is provided [here](https://github.com/TUD
 
 ## 2022-2023 exams
 
-The old exams:
 - 2022-2023 Q1 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1.html)
 - 2022-2023 Q1 resit: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q1_resit.html)
 - 2022-2023 Q2 exam: [`.pdf`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.pdf) and [`.html`](https://archive.mude.citg.tudelft.nl/2024/files/Exams/22_Q2.html)
