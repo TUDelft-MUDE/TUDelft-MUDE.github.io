@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-12: v2026.22.0.pre-release
+- Made exam info page up-to-date for 2026/27
+
 ## 2026-10-10: v2026.21.0.pre-release
 - Activated content overview page for Week 1.7
 - Added links to content overview for week 1.7
