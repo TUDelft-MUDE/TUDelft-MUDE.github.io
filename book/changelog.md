@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-12: v2026.23.0.pre-release
+- Made exam info page up-to-date for 2026/27
+
 ## 2026-10-12: v2026.22.0.pre-release
 - Added lecture slides week 1.7
 - Added collegerama video link for week 1.7
