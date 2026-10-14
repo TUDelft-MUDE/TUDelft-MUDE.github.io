@@ -9,7 +9,7 @@ Some general remarks:
 - In addition, programming topics changed over the years: questions from previous years illustrate how programming will be asked, but not necessarily the content. As the scope of Programming Assignments changes from year to year, you may see topics that are unfamiliar to you.
 
 Changes to the scope of the module over the years: 
-- Since 2026/27, univariate distributions and Taylor series expansions are not independent exam topics anymore. Questions about these topics (i.e. topics that are in the appendix of present year's book) are not representative for what you can expect this year. 
+- Since 2026/27, modelling concepts, univariate distributions and Taylor series expansions are not independent exam topics anymore. Questions about these topics (i.e. topics that are in the appendix of present year's book) are not representative for what you can expect this year. 
 - The finite volume method was part of MUDE in 2023/24 and 2024/25. It is not in this edition. 
 - The finite difference method for PDEs was in Q1 in 2023/24 and 2024/25. It is in Q2 in this edition. 
 - The scope in 2022/23 differed significantly from the present scope. Those exams are less representative but included for completeness. 
