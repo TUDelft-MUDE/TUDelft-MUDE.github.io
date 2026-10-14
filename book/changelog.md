@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-14: v2026.24.0.pre-release
+- Added workshop assignment links for week 1.7
+
 ## 2026-10-12: v2026.23.0.pre-release
 - Made exam info page up-to-date for 2026/27
 
