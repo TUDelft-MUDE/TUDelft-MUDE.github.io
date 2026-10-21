@@ -1,7 +1,10 @@
 # Changelog
 
+## 2026-10-21: v2026.27.0.pre-release
+- Added workshop assignment links for Week 1.8
+
 ## 2026-10-19: v2026.26.0.pre-release
-- Added collegerama video recording 2026 and 2025 (as an alternative).
+- Added collegerama video recording 2026 and 2025 (as an alternative) for Week 1.8
 
 ## 2026-10-16: v2026.25.0.pre-release
 - Added group assignment links for week 1.7
