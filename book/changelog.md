@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-23: v2026.28.0.pre-release
+- Added group assignment links for Week 1.8
+
 ## 2026-10-21: v2026.27.0.pre-release
 - Added workshop assignment links for Week 1.8
 
