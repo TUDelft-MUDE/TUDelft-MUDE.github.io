@@ -17,7 +17,7 @@ Changes to the scope of the module over the years:
 
 ## 2025-2026 exams
 
-The formula sheet for the Q1 2025 exam is provided [here](https://github.com/TUDelft-MUDE/source-files/raw/main/file/formula_sheet_q1_2025.pdf)
+The formula sheet for the Q1 2026 exam is provided [here](https://github.com/TUDelft-MUDE/source-files/raw/main/file/formula_sheet_q1_2026.pdf)
 
 ```{include} 2025/exam.md
 ```
