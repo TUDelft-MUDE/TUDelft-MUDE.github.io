@@ -6,9 +6,9 @@ on:
       - opened
       - edited
       - synchronize
-  schedule:
+  # schedule:
     # Every 30 minutes past the hour 
-    - cron: '30 * * * *'
+    # - cron: '30 * * * *'
 
 jobs:
   merge_schedule:
