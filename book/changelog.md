@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-11-06: v2026.29.0.pre-release
-- Activated content overview page for Week 2.1
-- Added links to content overview for week 2.1
+## 2026-11-09: v2026.30.0.pre-release
+- Added lecture slides week 2.1
+- Added collegerama video link for week 2.1
 
 ## 2026-10-23: v2026.28.0.pre-release
 - Added group assignment links for Week 1.8
