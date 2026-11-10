@@ -30,7 +30,9 @@ sphinx:
 # START REMOVE-FROM-RELEASE
       announcement: "<p>This book is not the version shared with students. That one is available here <a href='https://mude.citg.tudelft.nl' style='color: cyan;'>mude.citg.tudelft.nl</a></p>"
     keep_warnings: true
+    html_linkcheck_enabled: true 
 # END REMOVE-FROM-RELEASE
+    nitpicky: true
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
     mathjax3_config:
@@ -43,6 +45,10 @@ sphinx:
     - sphinx.ext.extlinks
     - teachbooks_favourites
     - sphinx_tudelft_theme
+# START REMOVE-FROM-RELEASE
+  local_extensions:
+    html_linkcheck: _ext/
+# END REMOVE-FROM-RELEASE
 
 bibtex_bibfiles: 
   - references.bib
