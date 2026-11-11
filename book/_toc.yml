@@ -32,9 +32,7 @@ parts:
       title: Workbook
     - url: https://mude.citg.tudelft.nl/workbook-2026/no_solutions
       title: Workbook without solutions
-# START REMOVE-FROM-PUBLISH
     - file: 2026/exam.md
-# END REMOVE-FROM-PUBLISH
     - url: https://brightspace.tudelft.nl/d2l/home/845111
       title: Brightspace - announcements, course information, buddycheck, grades (TU Delft login required)
     - url: https://answers.citg.tudelft.nl/
