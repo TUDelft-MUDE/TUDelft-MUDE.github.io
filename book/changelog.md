@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-11: v2026.31.0.pre-release
+- Added [Q1 exam without answers](./2026/exam.md)
+
 ## 2026-11-09: v2026.30.0.pre-release
 - Added lecture slides week 2.1
 - Added collegerama video link for week 2.1
