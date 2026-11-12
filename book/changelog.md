@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-12-11: v2026.32.0.pre-release
+- Added workshop assignment links for Week 2.1
+
 ## 2026-11-11: v2026.31.0.pre-release
 - Added [Q1 exam without answers](./2026/exam.md)
 
