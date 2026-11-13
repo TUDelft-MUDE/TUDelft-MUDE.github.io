@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-13-11: v2026.33.0.pre-release
+- Added group assignment links for Week 2.1
+- Activated content overview page for Week 2.2
+- Updated links in content overview page for Week 2.2
+
 ## 2026-12-11: v2026.32.0.pre-release
 - Added workshop assignment links for Week 2.1
 
