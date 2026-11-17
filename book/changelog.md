@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-12-17: v2026.34.0.pre-release
+- Added collegerama video link for week 2.2
+
 ## 2026-12-16: v2026.33.0.pre-release
 - Overview page for week 2.2
 - Added group assignment link for week 2.1
