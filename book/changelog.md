@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-25: v2026.38.0.pre-release
+- Added workshop assignment links in content overview week 2.3
+
 ## 2026-11-23: v2026.37.0.pre-release
 - Added collegerama video link for week 2.3
 
