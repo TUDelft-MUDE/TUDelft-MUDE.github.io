@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-27: v2026.39.0.pre-release
+- Activated overview page for week 2.4
+- Updated some links in content overview for week 2.4
+- Added group assignment link for week 2.3 + solution in the week overview
+
 ## 2026-11-25: v2026.38.0.pre-release
 - Added workshop assignment links in content overview week 2.3
 
